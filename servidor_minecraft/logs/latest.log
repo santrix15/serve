@@ -2547,3 +2547,43 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "EWQs}XaJ336%y=v"
 ]
+[31May2025 23:28:36.625] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 23:28:36.626] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": -1520566356
+}
+[31May2025 23:28:36.626] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[31May2025 23:28:36.626] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$l2+fNa336lVH%"
+]
+[31May2025 23:30:17.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 23:30:17.247] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 29
+}
+[31May2025 23:30:17.247] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[31May2025 23:30:17.247] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "aiiOF7{*>1K8]320m4jI"
+]
+[31May2025 23:31:21.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.71.247.24:52633] logged in with entity id 4686 at (-1462.623473686366, 121.0, 2428.527149549758)
+[31May2025 23:31:21.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[31May2025 23:31:21.413] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[31May2025 23:31:26.544] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[31May2025 23:31:26.544] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[31May2025 23:31:42.076] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[31May2025 23:31:48.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[31May2025 23:31:49.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[31May2025 23:31:49.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[31May2025 23:34:13.351] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 23:34:13.351] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3200
+}
+[31May2025 23:34:13.352] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[31May2025 23:34:13.352] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "_ TT_']&}2sJA33600<MdBh3"
+]
+[31May2025 23:35:50.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
