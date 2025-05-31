@@ -1,348 +1,276 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1748664716696 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1748665288695 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckig28AAAAAQAAAAEAAAAAAAAAAAAxS6mW3H3QNRcwrom2XsoZ8ivG7T509w_U8xuvQU6Fdg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664719811 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665291753 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckig28AAAAAQAAAAEAAAAAAAAAAAAxS6mW3H3QNRcwrom2XsoZ8ivG7T509w_U8xuvQU6Fdg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664722870 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665294808 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckig28AAAAAQAAAAEAAAAAAAAAAAAxS6mW3H3QNRcwrom2XsoZ8ivG7T509w_U8xuvQU6Fdg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664725932 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665297870 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckig28AAAAAQAAAAEAAAAAAAAAAAAxS6mW3H3QNRcwrom2XsoZ8ivG7T509w_U8xuvQU6Fdg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664728985 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665300928 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckig28AAAAAQAAAAEAAAAAAAAAAAAxS6mW3H3QNRcwrom2XsoZ8ivG7T509w_U8xuvQU6Fdg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664732040 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665303985 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckikmsAAAAAQAAAAEAAAAAAAAAAAAT4uwnLQZapyDefpcvm5MI99xk2pUkRQjUg233uUDvSw==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664735156 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665307052 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckikmsAAAAAQAAAAEAAAAAAAAAAAAT4uwnLQZapyDefpcvm5MI99xk2pUkRQjUg233uUDvSw==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664738212 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665310108 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckikmsAAAAAQAAAAEAAAAAAAAAAAAT4uwnLQZapyDefpcvm5MI99xk2pUkRQjUg233uUDvSw==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664741266 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665313163 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckikmsAAAAAQAAAAEAAAAAAAAAAAAT4uwnLQZapyDefpcvm5MI99xk2pUkRQjUg233uUDvSw==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664744325 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665316217 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckikmsAAAAAQAAAAEAAAAAAAAAAAAT4uwnLQZapyDefpcvm5MI99xk2pUkRQjUg233uUDvSw==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664747378 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665319271 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckioWUAAAAAQAAAAEAAAAAAAAAAADDkySrMdjgnLntnqobW7dbmZRUaoq8xJbLBAc49xMLTA==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664750490 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665322329 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckioWUAAAAAQAAAAEAAAAAAAAAAADDkySrMdjgnLntnqobW7dbmZRUaoq8xJbLBAc49xMLTA==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664753554 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665325382 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckioWUAAAAAQAAAAEAAAAAAAAAAADDkySrMdjgnLntnqobW7dbmZRUaoq8xJbLBAc49xMLTA==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664756612 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665328441 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckioWUAAAAAQAAAAEAAAAAAAAAAADDkySrMdjgnLntnqobW7dbmZRUaoq8xJbLBAc49xMLTA==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664759679 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665331515 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckioWUAAAAAQAAAAEAAAAAAAAAAADDkySrMdjgnLntnqobW7dbmZRUaoq8xJbLBAc49xMLTA==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664762738 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665334568 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckisGUAAAAAQAAAAEAAAAAAAAAAAAlLMN9dX1jJJeCOOFjw83yrNxIrm-56XIGcWah65_u8Q==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664765857 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665337620 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckisGUAAAAAQAAAAEAAAAAAAAAAAAlLMN9dX1jJJeCOOFjw83yrNxIrm-56XIGcWah65_u8Q==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664768915 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665340671 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckisGUAAAAAQAAAAEAAAAAAAAAAAAlLMN9dX1jJJeCOOFjw83yrNxIrm-56XIGcWah65_u8Q==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664771997 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665343744 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckisGUAAAAAQAAAAEAAAAAAAAAAAAlLMN9dX1jJJeCOOFjw83yrNxIrm-56XIGcWah65_u8Q==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664775058 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665346804 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckisGUAAAAAQAAAAEAAAAAAAAAAAAlLMN9dX1jJJeCOOFjw83yrNxIrm-56XIGcWah65_u8Q==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664778118 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665349857 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckiv2nAAAAAQAAAAEAAAAAAAAAAADeXGs10-9RiqsnoX03OOYRl0zjK9cak0J-wleeYAkz7w==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664781224 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665352910 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckiv2nAAAAAQAAAAEAAAAAAAAAAADeXGs10-9RiqsnoX03OOYRl0zjK9cak0J-wleeYAkz7w==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664784280 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665355962 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckiv2nAAAAAQAAAAEAAAAAAAAAAADeXGs10-9RiqsnoX03OOYRl0zjK9cak0J-wleeYAkz7w==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664787338 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665359022 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckiv2nAAAAAQAAAAEAAAAAAAAAAADeXGs10-9RiqsnoX03OOYRl0zjK9cak0J-wleeYAkz7w==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664790401 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665362078 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckiv2nAAAAAQAAAAEAAAAAAAAAAADeXGs10-9RiqsnoX03OOYRl0zjK9cak0J-wleeYAkz7w==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664793459 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665365129 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckizmTAAAAAQAAAAEAAAAAAAAAAAAQ5aXVyDQfN68-sVzcBDSp6HPfGsydBwu2Z6LcGaxDxg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664796565 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665368188 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckizmTAAAAAQAAAAEAAAAAAAAAAAAQ5aXVyDQfN68-sVzcBDSp6HPfGsydBwu2Z6LcGaxDxg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664799622 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665371241 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckizmTAAAAAQAAAAEAAAAAAAAAAAAQ5aXVyDQfN68-sVzcBDSp6HPfGsydBwu2Z6LcGaxDxg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664802687 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665374297 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckizmTAAAAAQAAAAEAAAAAAAAAAAAQ5aXVyDQfN68-sVzcBDSp6HPfGsydBwu2Z6LcGaxDxg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664805745 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665377352 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckizmTAAAAAQAAAAEAAAAAAAAAAAAQ5aXVyDQfN68-sVzcBDSp6HPfGsydBwu2Z6LcGaxDxg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664808801 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665380410 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki3WDAAAAAQAAAAEAAAAAAAAAAABEBxDzBQoNW_RgFjl9QyxxrPKv-dQIUlod9wu3xAA-Xg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664811912 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665383464 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki3WDAAAAAQAAAAEAAAAAAAAAAABEBxDzBQoNW_RgFjl9QyxxrPKv-dQIUlod9wu3xAA-Xg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664814966 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665386521 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki3WDAAAAAQAAAAEAAAAAAAAAAABEBxDzBQoNW_RgFjl9QyxxrPKv-dQIUlod9wu3xAA-Xg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664818021 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665389573 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki3WDAAAAAQAAAAEAAAAAAAAAAABEBxDzBQoNW_RgFjl9QyxxrPKv-dQIUlod9wu3xAA-Xg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664821074 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665392626 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki3WDAAAAAQAAAAEAAAAAAAAAAABEBxDzBQoNW_RgFjl9QyxxrPKv-dQIUlod9wu3xAA-Xg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664824134 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665395685 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki7FmAAAAAQAAAAEAAAAAAAAAAABNEXpJS6KL8MrrkJa5xYkCabQiaLL2uDZGOrjF6LzNqg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664827245 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665398743 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki7FmAAAAAQAAAAEAAAAAAAAAAABNEXpJS6KL8MrrkJa5xYkCabQiaLL2uDZGOrjF6LzNqg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664830305 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665401798 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki7FmAAAAAQAAAAEAAAAAAAAAAABNEXpJS6KL8MrrkJa5xYkCabQiaLL2uDZGOrjF6LzNqg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664833364 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665404859 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki7FmAAAAAQAAAAEAAAAAAAAAAABNEXpJS6KL8MrrkJa5xYkCabQiaLL2uDZGOrjF6LzNqg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664836422 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665407923 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki7FmAAAAAQAAAAEAAAAAAAAAAABNEXpJS6KL8MrrkJa5xYkCabQiaLL2uDZGOrjF6LzNqg==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664839480 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665410980 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki-1ZAAAAAQAAAAEAAAAAAAAAAACd68YlwQ7-91FfrHxnfT4IXY9roPwvsAKY9-QlT6GUiQ==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664842589 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665414044 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki-1ZAAAAAQAAAAEAAAAAAAAAAACd68YlwQ7-91FfrHxnfT4IXY9roPwvsAKY9-QlT6GUiQ==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664845644 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665417098 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki-1ZAAAAAQAAAAEAAAAAAAAAAACd68YlwQ7-91FfrHxnfT4IXY9roPwvsAKY9-QlT6GUiQ==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664848701 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665420158 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki-1ZAAAAAQAAAAEAAAAAAAAAAACd68YlwQ7-91FfrHxnfT4IXY9roPwvsAKY9-QlT6GUiQ==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664851755 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665423212 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZcki-1ZAAAAAQAAAAEAAAAAAAAAAACd68YlwQ7-91FfrHxnfT4IXY9roPwvsAKY9-QlT6GUiQ==
 
 TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664854809 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1748665426266 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjCk9AAAAAQAAAAEAAAAAAAAAAABCTL-Dr-277CHSwQqgtxeTc9V9mcWJf9JPeYQbP0dO8A==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664857918 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjCk9AAAAAQAAAAEAAAAAAAAAAABCTL-Dr-277CHSwQqgtxeTc9V9mcWJf9JPeYQbP0dO8A==
 
 TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664860974 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjCk9AAAAAQAAAAEAAAAAAAAAAABCTL-Dr-277CHSwQqgtxeTc9V9mcWJf9JPeYQbP0dO8A==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664864042 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjCk9AAAAAQAAAAEAAAAAAAAAAABCTL-Dr-277CHSwQqgtxeTc9V9mcWJf9JPeYQbP0dO8A==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664867097 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjCk9AAAAAQAAAAEAAAAAAAAAAABCTL-Dr-277CHSwQqgtxeTc9V9mcWJf9JPeYQbP0dO8A==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664870156 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjGUqAAAAAQAAAAEAAAAAAAAAAAChQ3BW7WZ-gFw564QIXEUWJ10d3XA25rmSKWpmMLFgWQ==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664873261 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjGUqAAAAAQAAAAEAAAAAAAAAAAChQ3BW7WZ-gFw564QIXEUWJ10d3XA25rmSKWpmMLFgWQ==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664876319 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjGUqAAAAAQAAAAEAAAAAAAAAAAChQ3BW7WZ-gFw564QIXEUWJ10d3XA25rmSKWpmMLFgWQ==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664879373 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjGUqAAAAAQAAAAEAAAAAAAAAAAChQ3BW7WZ-gFw564QIXEUWJ10d3XA25rmSKWpmMLFgWQ==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664882437 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjGUqAAAAAQAAAAEAAAAAAAAAAAChQ3BW7WZ-gFw564QIXEUWJ10d3XA25rmSKWpmMLFgWQ==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664885493 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjKEXAAAAAQAAAAEAAAAAAAAAAAAJZynyYv2YJwxt8fJu-hOhl_SOuCP5eYkFUuZnAgxMdw==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664888610 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjKEXAAAAAQAAAAEAAAAAAAAAAAAJZynyYv2YJwxt8fJu-hOhl_SOuCP5eYkFUuZnAgxMdw==
-
-TUNNELS
-control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1748664891667 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAgAAAAAAAAAAABRp0gAAAZckjKEXAAAAAQAAAAEAAAAAAAAAAAAJZynyYv2YJwxt8fJu-hOhl_SOuCP5eYkFUuZnAgxMdw==
-
-TUNNELS
+contract-traditions.gl.at.ply.gg:4366 => 127.0.0.1:4366 (proto: Udp, port count: 1)
 control-eos.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
