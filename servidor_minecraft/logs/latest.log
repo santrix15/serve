@@ -2587,3 +2587,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "_ TT_']&}2sJA33600<MdBh3"
 ]
 [31May2025 23:35:50.374] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[31May2025 23:40:00.048] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 23:40:00.049] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15448
+}
+[31May2025 23:40:00.049] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[31May2025 23:40:00.049] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "X !Y &:oZl-R\\q4Wo336XA|Y0?"
+]
+[31May2025 23:43:20.981] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[31May2025 23:43:20.981] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 89
+}
+[31May2025 23:43:20.982] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[31May2025 23:43:20.982] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "RR#F<0?:Q!;ijD320oD?{g"
+]
+[31May2025 23:43:56.321] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[31May2025 23:44:43.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautiABC[/127.52.80.31:41053] logged in with entity id 10701 at (-1852.2071896465875, 65.0, 56.17065039965444)
+[31May2025 23:44:43.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC joined the game
+[31May2025 23:44:43.469] [Server thread/INFO] [Jade/]: Syncing config to lautiABC (71cf154b-6e54-326e-9700-98d60017873d)
+[31May2025 23:44:47.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> holaa
+[31May2025 23:44:47.563] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautiABC (18)
+[31May2025 23:44:47.563] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[31May2025 23:45:13.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[31May2025 23:45:14.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[31May2025 23:45:14.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[31May2025 23:46:01.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> puto lauti
+[31May2025 23:47:56.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> hola chiquitines
+[31May2025 23:48:09.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> che amigo se renicio td
