@@ -9067,7 +9067,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-21 19:55:39 +0000",
       "minecraft:nether_wastes": "2025-05-21 19:46:21 +0000",
-      "minecraft:basalt_deltas": "2025-05-21 21:52:58 +0000"
+      "minecraft:basalt_deltas": "2025-05-21 21:52:58 +0000",
+      "minecraft:warped_forest": "2025-06-01 00:32:01 +0000"
     },
     "done": false
   },
@@ -11423,9 +11424,27 @@
     },
     "done": true
   },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-06-01 00:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-01 00:32:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-05-31 23:41:34 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-06-01 00:33:15 +0000"
     },
     "done": true
   },
