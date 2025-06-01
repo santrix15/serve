@@ -476,3 +476,18 @@
 [01Jun2025 00:59:46.184] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
 [01Jun2025 00:59:46.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
 [01Jun2025 01:00:48.834] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[01Jun2025 01:07:26.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was frozen to death by Santix15
+[01Jun2025 01:09:27.129] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[01Jun2025 01:09:37.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC withered away whilst fighting lobo3224
+[01Jun2025 01:09:39.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was killed by magic whilst trying to escape lobo3224
+[01Jun2025 01:10:05.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC withered away whilst fighting lobo3224
+[01Jun2025 01:10:14.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 froze to death
+[01Jun2025 01:10:20.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=73, z=30}
+[01Jun2025 01:10:20.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 moved wrongly!
+[01Jun2025 01:10:20.453] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[01Jun2025 01:10:20.460] [Netty Epoll Server IO #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@560b1328[id=<null>,name=maximito,properties={},legacy=false] (/127.141.4.49:59601): Unexpected custom data from client
+[01Jun2025 01:10:20.484] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@560b1328[id=<null>,name=maximito,properties={},legacy=false] (/127.141.4.49:59601) lost connection: Unexpected custom data from client
+[01Jun2025 01:10:31.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC froze to death
+[01Jun2025 01:10:56.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> jjajajaja
+[01Jun2025 01:11:13.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> con poderes cualquiera xd
+[01Jun2025 01:11:14.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> venganza

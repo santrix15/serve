@@ -11409,3 +11409,60 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 01:00:48.834] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [01Jun2025 01:00:50.493] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -146 528 528 VisualFallingBlockEntity['Falling Netherrack'/75326, l='ServerLevel[world]', x=-145.50, y=9.00, z=528.50]
 [01Jun2025 01:01:02.894] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -143 543 543 VisualFallingBlockEntity['Falling Netherrack'/75493, l='ServerLevel[world]', x=-142.50, y=5.00, z=543.50]
+[01Jun2025 01:01:08.827] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[01Jun2025 01:01:09.165] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748739669126
+[01Jun2025 01:03:47.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 01:03:47.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 01:05:32.330] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-305, y=54, z=1092}
+[01Jun2025 01:05:32.331] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-305, y=54, z=1089}
+[01Jun2025 01:07:26.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was frozen to death by Santix15
+[01Jun2025 01:07:29.688] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748740049688
+[01Jun2025 01:07:57.578] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} -1478 2192 2192 VisualFallingBlockEntity['Falling Dirt'/81062, l='ServerLevel[world]', x=-1477.50, y=72.00, z=2192.50]
+[01Jun2025 01:08:29.926] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1476 2196 2196 VisualFallingBlockEntity['Falling Stone'/81232, l='ServerLevel[world]', x=-1475.50, y=54.00, z=2196.50]
+[01Jun2025 01:08:29.926] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1476 2194 2194 VisualFallingBlockEntity['Falling Stone'/81233, l='ServerLevel[world]', x=-1475.50, y=53.00, z=2194.50]
+[01Jun2025 01:08:33.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:andesite} -1478 2194 2194 VisualFallingBlockEntity['Falling Andesite'/81265, l='ServerLevel[world]', x=-1477.50, y=50.00, z=2194.50]
+[01Jun2025 01:08:33.480] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1475 2197 2197 VisualFallingBlockEntity['Falling Stone'/81266, l='ServerLevel[world]', x=-1474.50, y=50.00, z=2197.50]
+[01Jun2025 01:08:43.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1481 2197 2197 VisualFallingBlockEntity['Falling Stone'/81333, l='ServerLevel[world]', x=-1480.50, y=47.00, z=2197.50]
+[01Jun2025 01:08:45.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1489 2196 2196 VisualFallingBlockEntity['Falling Stone'/81365, l='ServerLevel[world]', x=-1488.50, y=51.00, z=2196.50]
+[01Jun2025 01:08:45.779] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1488 2194 2194 VisualFallingBlockEntity['Falling Stone'/81366, l='ServerLevel[world]', x=-1487.50, y=47.00, z=2194.50]
+[01Jun2025 01:08:47.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 01:08:47.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 01:08:51.679] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1488 2198 2198 VisualFallingBlockEntity['Falling Stone'/81422, l='ServerLevel[world]', x=-1487.50, y=42.00, z=2198.50]
+[01Jun2025 01:08:51.681] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1489 2197 2197 VisualFallingBlockEntity['Falling Stone'/81423, l='ServerLevel[world]', x=-1488.50, y=42.00, z=2197.50]
+[01Jun2025 01:08:54.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1489 2197 2197 VisualFallingBlockEntity['Falling Stone'/81474, l='ServerLevel[world]', x=-1488.50, y=39.00, z=2197.50]
+[01Jun2025 01:08:54.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:granite} -1492 2199 2199 VisualFallingBlockEntity['Falling Granite'/81475, l='ServerLevel[world]', x=-1491.50, y=37.00, z=2199.50]
+[01Jun2025 01:08:54.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1493 2196 2196 VisualFallingBlockEntity['Falling Stone'/81476, l='ServerLevel[world]', x=-1492.50, y=38.00, z=2196.50]
+[01Jun2025 01:08:55.824] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:andesite} -1491 2197 2197 VisualFallingBlockEntity['Falling Andesite'/81504, l='ServerLevel[world]', x=-1490.50, y=31.00, z=2197.50]
+[01Jun2025 01:08:55.827] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:gravel} -1489 2199 2199 VisualFallingBlockEntity['Falling Gravel'/81505, l='ServerLevel[world]', x=-1488.50, y=29.00, z=2199.50]
+[01Jun2025 01:08:55.828] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:andesite} -1493 2198 2198 VisualFallingBlockEntity['Falling Andesite'/81506, l='ServerLevel[world]', x=-1492.50, y=29.00, z=2198.50]
+[01Jun2025 01:08:59.324] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1490 2196 2196 VisualFallingBlockEntity['Falling Stone'/81545, l='ServerLevel[world]', x=-1489.50, y=19.00, z=2196.50]
+[01Jun2025 01:08:59.327] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1492 2196 2196 VisualFallingBlockEntity['Falling Stone'/81546, l='ServerLevel[world]', x=-1491.50, y=18.00, z=2196.50]
+[01Jun2025 01:09:02.831] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1492 2198 2198 VisualFallingBlockEntity['Falling Stone'/81596, l='ServerLevel[world]', x=-1491.50, y=5.00, z=2198.50]
+[01Jun2025 01:09:27.129] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[01Jun2025 01:09:37.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC withered away whilst fighting lobo3224
+[01Jun2025 01:09:39.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was killed by magic whilst trying to escape lobo3224
+[01Jun2025 01:09:41.127] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748740181120
+[01Jun2025 01:09:42.099] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748740182099
+[01Jun2025 01:10:05.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC withered away whilst fighting lobo3224
+[01Jun2025 01:10:08.087] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748740208086
+[01Jun2025 01:10:14.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 froze to death
+[01Jun2025 01:10:17.141] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748740217133
+[01Jun2025 01:10:20.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=73, z=30}
+[01Jun2025 01:10:20.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 moved wrongly!
+[01Jun2025 01:10:20.102] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 41 messages to dispatch.
+[01Jun2025 01:10:20.131] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[01Jun2025 01:10:20.181] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 1
+[01Jun2025 01:10:20.231] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig backpacked:server' to 'framework:handshake' sequence 2
+[01Jun2025 01:10:20.285] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 3
+[01Jun2025 01:10:20.335] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 4
+[01Jun2025 01:10:20.384] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 5
+[01Jun2025 01:10:20.433] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 6
+[01Jun2025 01:10:20.452] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[01Jun2025 01:10:20.453] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[01Jun2025 01:10:20.460] [Netty Epoll Server IO #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@560b1328[id=<null>,name=maximito,properties={},legacy=false] (/127.141.4.49:59601): Unexpected custom data from client
+[01Jun2025 01:10:20.484] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@560b1328[id=<null>,name=maximito,properties={},legacy=false] (/127.141.4.49:59601) lost connection: Unexpected custom data from client
+[01Jun2025 01:10:31.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC froze to death
+[01Jun2025 01:10:34.935] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748740234920
+[01Jun2025 01:10:56.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> jjajajaja
+[01Jun2025 01:11:13.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> con poderes cualquiera xd
+[01Jun2025 01:11:14.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> venganza
