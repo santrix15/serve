@@ -623,3 +623,18 @@
 [01Jun2025 01:18:01.049] [Netty Epoll Server IO #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4d6418b2[id=<null>,name=maximito,properties={},legacy=false] (/127.141.4.49:49403): Unexpected custom data from client
 [01Jun2025 01:18:01.082] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d6418b2[id=<null>,name=maximito,properties={},legacy=false] (/127.141.4.49:49403) lost connection: Unexpected custom data from client
 [01Jun2025 01:18:14.682] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[01Jun2025 01:22:27.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [A Seedy Place]
+[01Jun2025 01:23:09.380] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 01:23:09.381] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 105
+}
+[01Jun2025 01:23:09.381] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[01Jun2025 01:23:09.381] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "i>D(Ldq<,320pvZD^"
+]
+[01Jun2025 01:24:47.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was killed by magic whilst trying to escape lobo3224
+[01Jun2025 01:29:53.977] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[01Jun2025 01:29:53.977] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[01Jun2025 01:31:46.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was slain by Murmur

@@ -4803,6 +4803,7 @@
       "glow_berries": "2025-05-10 05:11:55 +0000",
       "sugar_cane": "2025-05-04 05:02:01 +0000",
       "potato": "2025-05-03 05:14:53 +0000",
+      "wheat": "2025-06-01 01:22:27 +0000",
       "carrot": "2025-05-03 05:14:27 +0000"
     },
     "done": false
@@ -10802,15 +10803,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-06-01 01:22:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_log": "2025-06-01 01:16:19 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:24:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-06-01 01:24:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-06-01 01:22:17 +0000"
     },
     "done": true
   },
@@ -10823,6 +10854,12 @@
   "cfm:recipes/decorations/stripped_mangrove_park_bench": {
     "criteria": {
       "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-06-01 01:22:17 +0000"
     },
     "done": true
   },
@@ -10874,6 +10911,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-06-01 01:21:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_desk": {
     "criteria": {
       "has_planks": "2025-06-01 01:16:19 +0000"
@@ -10922,6 +10965,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-06-01 01:24:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-01 01:21:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-06-01 01:24:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-06-01 01:16:19 +0000"
@@ -10931,6 +10992,18 @@
   "cfm:recipes/decorations/stripped_mangrove_crate": {
     "criteria": {
       "has_planks": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-01 01:22:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-06-01 01:21:55 +0000"
     },
     "done": true
   },

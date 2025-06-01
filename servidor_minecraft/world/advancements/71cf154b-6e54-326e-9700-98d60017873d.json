@@ -2072,6 +2072,7 @@
       "golden_apple": "2025-05-27 23:29:29 +0000",
       "bread": "2025-05-31 01:02:55 +0000",
       "rotten_flesh": "2025-05-29 23:49:53 +0000",
+      "salmon": "2025-06-01 01:28:26 +0000",
       "melon_slice": "2025-05-27 23:12:47 +0000",
       "carrot": "2025-05-29 23:43:59 +0000"
     },
@@ -5931,15 +5932,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-01 01:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-06-01 01:06:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-01 01:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-06-01 01:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-01 01:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-01 01:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-01 01:28:15 +0000"
     },
     "done": true
   },
