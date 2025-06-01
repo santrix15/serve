@@ -10695,3 +10695,362 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 03:58:29.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 03:58:29.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 03:58:43.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was slain by Church Doctor
+[01Jun2025 03:59:35.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[01Jun2025 03:59:35.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[01Jun2025 03:59:35.741] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lautiABC
+[01Jun2025 03:59:35.741] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[01Jun2025 03:59:35.790] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.801] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.812] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.822] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.840] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.868] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.881] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.899] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.917] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.943] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.962] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:35.986] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.004] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.019] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.043] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.060] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.079] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.102] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.120] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.173] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.174] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.183] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.200] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.222] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.242] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.258] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.288] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 03:59:36.319] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[01Jun2025 04:00:45.794] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:00:45.795] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=967, z=1073200}"
+}
+[01Jun2025 04:00:45.795] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 04:00:45.795] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[10, 95, -107, -95, 87, -110, -8, -73, -19, -60, 69]"
+]
+[01Jun2025 04:00:47.979] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:00:47.980] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=849, z=1073200}"
+}
+[01Jun2025 04:00:47.980] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 04:00:47.981] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[86, -82, -112, 124, 0, 7, -106, -96, -99, -63, -128]"
+]
+[01Jun2025 04:00:48.390] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:00:48.391] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=778, z=1073200}"
+}
+[01Jun2025 04:00:48.391] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 04:00:48.391] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[105, -4, 109, -53, 3, -37, 54, 87, 55, -110, 37]"
+]
+[01Jun2025 04:00:48.448] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:00:48.448] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=833, z=1073200}"
+}
+[01Jun2025 04:00:48.449] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 04:00:48.449] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-18, 11, -42, -117, -78, -79, -78, 61, -52, -101, -1]"
+]
+[01Jun2025 04:00:49.327] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:00:49.327] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=998, z=1073200}"
+}
+[01Jun2025 04:00:49.327] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 04:00:49.328] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 24, -70, 71, -99, 69, 2, 35, -101, 49, 99]"
+]
+[01Jun2025 04:00:49.529] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:00:49.530] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=896, z=1073200}"
+}
+[01Jun2025 04:00:49.530] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 04:00:49.530] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-123, -58, -23, -10, -56, 4, -17, -33, 12, -121, -98]"
+]
+[01Jun2025 04:00:49.599] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:00:49.600] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=838, z=1073200}"
+}
+[01Jun2025 04:00:49.600] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 04:00:49.600] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[95, -118, -99, 82, -11, 47, -101, 127, -96, 112, -50]"
+]
+[01Jun2025 04:00:50.480] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:00:50.481] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=974, z=1073200}"
+}
+[01Jun2025 04:00:50.481] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 04:00:50.481] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[50, 98, -36, 75, 72, -41, 6, -30, -44, 44, -78]"
+]
+[01Jun2025 04:00:53.445] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:00:53.446] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=1012, z=905264}"
+}
+[01Jun2025 04:00:53.446] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 04:00:53.447] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[108, 72, -115, 76, 10, 23, -126, 20, 64, -14, 85]"
+]
+[01Jun2025 04:00:54.798] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:00:54.798] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=919, z=856112}"
+}
+[01Jun2025 04:00:54.799] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 04:00:54.799] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[64, -18, -26, -126, 94, -92, -66, 87, -66, -7, -100]"
+]
+[01Jun2025 04:03:29.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:03:29.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:05:31.427] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[01Jun2025 04:05:54.345] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_13
+[01Jun2025 04:05:58.290] [Worker-Main-2/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_04 is being run through DFU (hash 292045c39a7bf9e7665c20db773c2ed653685b8391f044e5b35fb53cb71b9832), this will cause launch time delays
+[01Jun2025 04:07:58.393] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01Jun2025 04:08:08.621] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[01Jun2025 04:08:09.586] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[01Jun2025 04:08:09.587] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[01Jun2025 04:08:13.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
+[01Jun2025 04:08:14.957] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-422, y=143, z=7389} but found not block entity block Block{minecraft:air} at location
+[01Jun2025 04:08:14.957] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-422, y=143, z=7389}
+[01Jun2025 04:08:14.957] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-424, y=143, z=7389} but found not block entity block Block{minecraft:air} at location
+[01Jun2025 04:08:14.958] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-424, y=143, z=7389}
+[01Jun2025 04:08:14.958] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-423, y=143, z=7390} but found not block entity block Block{minecraft:air} at location
+[01Jun2025 04:08:14.958] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-423, y=143, z=7390}
+[01Jun2025 04:08:32.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:08:32.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:09:02.216] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[01Jun2025 04:09:02.220] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[01Jun2025 04:09:02.223] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[01Jun2025 04:09:02.229] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[01Jun2025 04:09:02.243] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[01Jun2025 04:09:02.247] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[01Jun2025 04:09:02.252] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[01Jun2025 04:09:02.255] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[01Jun2025 04:09:02.260] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[01Jun2025 04:09:02.263] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[01Jun2025 04:09:03.712] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[01Jun2025 04:09:03.756] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[01Jun2025 04:09:04.552] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_05
+[01Jun2025 04:09:20.062] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[01Jun2025 04:10:19.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[01Jun2025 04:10:29.008] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -10453 -56 13196 in 5s
+[01Jun2025 04:11:35.467] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 04:11:35.468] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 68
+}
+[01Jun2025 04:11:35.468] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[01Jun2025 04:11:35.468] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|MNc]=\"FDxDww;{320XCjo|"
+]
+[01Jun2025 04:11:45.557] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[01Jun2025 04:11:52.213] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[01Jun2025 04:12:09.691] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_1_regen
+[01Jun2025 04:12:09.691] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_0_speed
+[01Jun2025 04:12:09.692] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_2_wither
+[01Jun2025 04:12:09.692] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_3_resistance
+[01Jun2025 04:12:09.692] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_4_haste
+[01Jun2025 04:12:41.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[01Jun2025 04:12:41.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[01Jun2025 04:12:41.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[01Jun2025 04:12:41.574] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[01Jun2025 04:12:41.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[01Jun2025 04:12:41.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[01Jun2025 04:12:41.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[01Jun2025 04:12:41.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[01Jun2025 04:12:41.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[01Jun2025 04:12:41.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[01Jun2025 04:12:41.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[01Jun2025 04:12:41.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[01Jun2025 04:12:41.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[01Jun2025 04:12:41.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[01Jun2025 04:12:41.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[01Jun2025 04:12:41.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[01Jun2025 04:12:41.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[01Jun2025 04:12:41.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[01Jun2025 04:12:41.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[01Jun2025 04:12:41.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[01Jun2025 04:12:41.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[01Jun2025 04:12:54.242] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[01Jun2025 04:12:54.270] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[01Jun2025 04:13:32.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:13:32.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:14:25.224] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[01Jun2025 04:14:25.381] [Worker-Main-47/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[01Jun2025 04:14:44.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [A Terrifying Entrance]
+[01Jun2025 04:14:56.464] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[01Jun2025 04:15:34.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Undead Guard]
+[01Jun2025 04:15:40.372] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[01Jun2025 04:15:40.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_evoker_fangs_0
+[01Jun2025 04:15:40.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_0
+[01Jun2025 04:15:40.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_passage_1
+[01Jun2025 04:15:40.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_5_brews
+[01Jun2025 04:15:40.394] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_passage_0
+[01Jun2025 04:15:40.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_skeleton_1
+[01Jun2025 04:15:40.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_1_double
+[01Jun2025 04:15:40.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_witch_0
+[01Jun2025 04:15:40.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_security_0
+[01Jun2025 04:15:40.406] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_2_crossing
+[01Jun2025 04:15:40.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_security_3
+[01Jun2025 04:15:40.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_1_cells
+[01Jun2025 04:15:40.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_3_cells
+[01Jun2025 04:15:40.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_zombie_horde_0
+[01Jun2025 04:15:40.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_2_double
+[01Jun2025 04:15:40.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_passage_2
+[01Jun2025 04:15:40.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_6_water
+[01Jun2025 04:15:40.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_normal_2
+[01Jun2025 04:15:40.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_security_1
+[01Jun2025 04:15:40.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_security_2
+[01Jun2025 04:15:40.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_security_4
+[01Jun2025 04:15:40.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_0
+[01Jun2025 04:15:40.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_3_stairway
+[01Jun2025 04:15:40.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_normal_0
+[01Jun2025 04:15:40.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_skeleton_0
+[01Jun2025 04:15:40.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_normal_5
+[01Jun2025 04:15:40.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_skeleton_2_wither
+[01Jun2025 04:15:40.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_4_pit
+[01Jun2025 04:16:06.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Living Armor]
+[01Jun2025 04:16:07.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[01Jun2025 04:16:48.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[01Jun2025 04:16:48.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_3
+[01Jun2025 04:16:48.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[01Jun2025 04:16:48.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_0
+[01Jun2025 04:16:48.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_1
+[01Jun2025 04:16:50.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail1
+[01Jun2025 04:16:52.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
+[01Jun2025 04:18:09.147] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[01Jun2025 04:18:09.150] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[01Jun2025 04:18:11.403] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_12
+[01Jun2025 04:18:28.098] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_graveyard/small_desert_graveyard_01
+[01Jun2025 04:18:32.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 04:18:32.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 04:18:47.730] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=198, y=-6, z=8143}
+[01Jun2025 04:18:51.069] [Worker-Main-47/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=197, y=8, z=8148}
+[01Jun2025 04:18:51.069] [Worker-Main-47/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=206, y=8, z=8149}
+[01Jun2025 04:18:51.218] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_09
+[01Jun2025 04:18:54.669] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_09
+[01Jun2025 04:19:00.913] [Worker-Main-47/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=243, y=6, z=8151}
+[01Jun2025 04:19:00.914] [Worker-Main-47/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=232, y=8, z=8144}
+[01Jun2025 04:19:00.914] [Worker-Main-47/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=197, y=8, z=8148}
+[01Jun2025 04:19:00.914] [Worker-Main-47/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=225, y=8, z=8149}
+[01Jun2025 04:19:00.918] [Worker-Main-47/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=215, y=8, z=8143}
+[01Jun2025 04:19:01.392] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=243, y=6, z=8151}
+[01Jun2025 04:19:08.724] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=231, y=28, z=8122}
+[01Jun2025 04:19:08.726] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=227, y=8, z=8114}
+[01Jun2025 04:19:09.468] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=243, y=6, z=8151}
+[01Jun2025 04:19:09.473] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=247, y=8, z=8142}
+[01Jun2025 04:19:09.473] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=243, y=6, z=8151}
+[01Jun2025 04:19:09.475] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=232, y=8, z=8144}
+[01Jun2025 04:19:09.475] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=225, y=8, z=8149}
+[01Jun2025 04:19:09.480] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=244, y=21, z=8123}
+[01Jun2025 04:19:09.480] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=247, y=8, z=8142}
+[01Jun2025 04:19:09.481] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=235, y=8, z=8141}
+[01Jun2025 04:19:09.481] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=215, y=8, z=8143}
+[01Jun2025 04:19:09.485] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=244, y=21, z=8123}
+[01Jun2025 04:19:09.485] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=226, y=8, z=8119}
+[01Jun2025 04:19:09.486] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=231, y=28, z=8122}
+[01Jun2025 04:19:09.487] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=237, y=8, z=8120}
+[01Jun2025 04:19:09.487] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=227, y=8, z=8114}
+[01Jun2025 04:19:17.020] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=243, y=8, z=8114}
+[01Jun2025 04:19:17.020] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=231, y=28, z=8122}
+[01Jun2025 04:19:17.021] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=248, y=21, z=8117}
+[01Jun2025 04:19:17.025] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=261, y=8, z=8115}
+[01Jun2025 04:19:17.026] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=252, y=21, z=8129}
+[01Jun2025 04:19:17.026] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=244, y=21, z=8123}
+[01Jun2025 04:19:17.026] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=254, y=8, z=8120}
+[01Jun2025 04:19:17.027] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=226, y=8, z=8119}
+[01Jun2025 04:19:17.028] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=243, y=8, z=8114}
+[01Jun2025 04:19:17.028] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=258, y=21, z=8118}
+[01Jun2025 04:19:17.028] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=231, y=28, z=8122}
+[01Jun2025 04:19:17.029] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=248, y=21, z=8117}
+[01Jun2025 04:19:17.192] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=245, y=21, z=8134}
+[01Jun2025 04:19:17.193] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=248, y=8, z=8150}
+[01Jun2025 04:19:17.193] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=252, y=21, z=8129}
+[01Jun2025 04:19:17.194] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=262, y=21, z=8135}
+[01Jun2025 04:19:17.194] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=244, y=21, z=8123}
+[01Jun2025 04:19:17.195] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=247, y=8, z=8142}
+[01Jun2025 04:19:17.195] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=250, y=8, z=8141}
+[01Jun2025 04:19:17.196] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=254, y=8, z=8120}
+[01Jun2025 04:19:17.197] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=235, y=8, z=8141}
+[01Jun2025 04:19:17.706] [Worker-Main-47/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=243, y=6, z=8151}
+[01Jun2025 04:19:17.713] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=248, y=8, z=8150}
+[01Jun2025 04:19:17.713] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=262, y=21, z=8135}
+[01Jun2025 04:19:17.714] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=247, y=8, z=8142}
+[01Jun2025 04:19:17.715] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=261, y=8, z=8151}
+[01Jun2025 04:19:17.716] [Worker-Main-10/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=243, y=6, z=8151}
+[01Jun2025 04:19:31.383] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[01Jun2025 04:19:31.394] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[01Jun2025 04:19:31.396] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[01Jun2025 04:19:31.402] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[01Jun2025 04:19:31.408] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[01Jun2025 04:19:31.412] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[01Jun2025 04:19:31.413] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[01Jun2025 04:19:31.415] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[01Jun2025 04:19:31.417] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[01Jun2025 04:19:31.421] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[01Jun2025 04:19:31.429] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[01Jun2025 04:19:31.431] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[01Jun2025 04:19:31.432] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[01Jun2025 04:19:31.436] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[01Jun2025 04:19:31.436] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[01Jun2025 04:19:31.437] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[01Jun2025 04:19:31.437] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[01Jun2025 04:19:31.437] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[01Jun2025 04:19:31.438] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[01Jun2025 04:19:31.438] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[01Jun2025 04:19:31.438] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[01Jun2025 04:19:31.439] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[01Jun2025 04:19:31.439] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[01Jun2025 04:19:31.439] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[01Jun2025 04:19:31.450] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[01Jun2025 04:19:31.451] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_mage
+[01Jun2025 04:19:31.451] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[01Jun2025 04:19:34.532] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_6

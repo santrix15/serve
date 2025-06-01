@@ -11028,6 +11028,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-06-01 04:18:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/onion": {
     "criteria": {
       "has_onion_crate": "2025-06-01 03:55:19 +0000"
