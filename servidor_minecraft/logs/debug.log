@@ -10591,3 +10591,79 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 00:18:05.602] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748737085582
 [01Jun2025 00:18:45.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 00:18:45.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 00:19:25.518] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[01Jun2025 00:19:25.733] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[01Jun2025 00:19:25.736] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[01Jun2025 00:19:25.739] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[01Jun2025 00:19:25.740] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[01Jun2025 00:19:25.743] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[01Jun2025 00:19:25.746] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[01Jun2025 00:19:25.747] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[01Jun2025 00:19:25.749] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[01Jun2025 00:19:25.751] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[01Jun2025 00:19:27.475] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748737165839
+[01Jun2025 00:19:27.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[01Jun2025 00:19:45.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> holaaa santi
+[01Jun2025 00:19:55.123] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[01Jun2025 00:20:27.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[01Jun2025 00:20:33.343] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1132 2611 2611 VisualFallingBlockEntity['Falling Deepslate'/36004, l='ServerLevel[world]', x=-1131.50, y=-53.00, z=2611.50]
+[01Jun2025 00:20:37.807] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1129 2609 2609 VisualFallingBlockEntity['Falling Deepslate'/36114, l='ServerLevel[world]', x=-1128.50, y=-53.00, z=2609.50]
+[01Jun2025 00:20:37.809] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1129 2611 2611 VisualFallingBlockEntity['Falling Deepslate'/36115, l='ServerLevel[world]', x=-1128.50, y=-52.00, z=2611.50]
+[01Jun2025 00:20:44.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1117 2607 2607 VisualFallingBlockEntity['Falling Deepslate'/36319, l='ServerLevel[world]', x=-1116.50, y=-56.00, z=2607.50]
+[01Jun2025 00:20:44.490] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1117 2608 2608 VisualFallingBlockEntity['Falling Deepslate'/36320, l='ServerLevel[world]', x=-1116.50, y=-52.00, z=2608.50]
+[01Jun2025 00:20:54.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[01Jun2025 00:20:56.248] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1114 2611 2611 VisualFallingBlockEntity['Falling Deepslate'/36712, l='ServerLevel[world]', x=-1113.50, y=-56.00, z=2611.50]
+[01Jun2025 00:20:56.249] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1113 2608 2608 VisualFallingBlockEntity['Falling Deepslate'/36713, l='ServerLevel[world]', x=-1112.50, y=-52.00, z=2608.50]
+[01Jun2025 00:21:06.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[01Jun2025 00:21:09.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[01Jun2025 00:21:10.585] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1101 2608 2608 VisualFallingBlockEntity['Falling Deepslate'/37026, l='ServerLevel[world]', x=-1100.50, y=-55.00, z=2608.50]
+[01Jun2025 00:21:10.590] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1103 2611 2611 VisualFallingBlockEntity['Falling Deepslate'/37027, l='ServerLevel[world]', x=-1102.50, y=-52.00, z=2611.50]
+[01Jun2025 00:21:20.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Best Friends Forever]
+[01Jun2025 00:21:34.141] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1086 2611 2611 VisualFallingBlockEntity['Falling Deepslate'/37480, l='ServerLevel[world]', x=-1085.50, y=-55.00, z=2611.50]
+[01Jun2025 00:21:38.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[01Jun2025 00:22:09.295] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01Jun2025 00:22:10.030] [Worker-Main-79/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jun2025 00:22:10.031] [Worker-Main-79/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jun2025 00:22:22.542] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:tuff} -1072 2631 2631 VisualFallingBlockEntity['Falling Tuff'/38514, l='ServerLevel[world]', x=-1071.50, y=-56.00, z=2631.50]
+[01Jun2025 00:22:29.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1072 2640 2640 VisualFallingBlockEntity['Falling Deepslate'/38608, l='ServerLevel[world]', x=-1071.50, y=-54.00, z=2640.50]
+[01Jun2025 00:22:38.703] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1058 2638 2638 VisualFallingBlockEntity['Falling Deepslate'/38702, l='ServerLevel[world]', x=-1057.50, y=-56.00, z=2638.50]
+[01Jun2025 00:22:41.891] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[01Jun2025 00:22:49.401] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1055 2641 2641 VisualFallingBlockEntity['Falling Deepslate'/38957, l='ServerLevel[world]', x=-1054.50, y=-53.00, z=2641.50]
+[01Jun2025 00:22:57.400] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jun2025 00:22:57.401] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jun2025 00:22:57.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[01Jun2025 00:23:30.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[01Jun2025 00:23:30.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[01Jun2025 00:23:30.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_02
+[01Jun2025 00:23:30.762] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[01Jun2025 00:23:30.763] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[01Jun2025 00:23:30.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[01Jun2025 00:23:30.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[01Jun2025 00:23:31.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1045 2637 2637 VisualFallingBlockEntity['Falling Deepslate'/39514, l='ServerLevel[world]', x=-1044.50, y=-54.00, z=2637.50]
+[01Jun2025 00:23:31.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1047 2641 2641 VisualFallingBlockEntity['Falling Deepslate'/39515, l='ServerLevel[world]', x=-1046.50, y=-52.00, z=2641.50]
+[01Jun2025 00:23:47.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 00:23:47.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 00:24:05.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1023 2637 2637 VisualFallingBlockEntity['Falling Deepslate'/39919, l='ServerLevel[world]', x=-1022.50, y=-52.00, z=2637.50]
+[01Jun2025 00:24:05.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1023 2639 2639 VisualFallingBlockEntity['Falling Deepslate'/39920, l='ServerLevel[world]', x=-1022.50, y=-56.00, z=2639.50]
+[01Jun2025 00:24:57.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[01Jun2025 00:25:00.587] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1016 2638 2638 VisualFallingBlockEntity['Falling Deepslate'/40815, l='ServerLevel[world]', x=-1015.50, y=-53.00, z=2638.50]
+[01Jun2025 00:25:03.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[01Jun2025 00:25:03.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[01Jun2025 00:25:03.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[01Jun2025 00:25:03.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[01Jun2025 00:25:03.011] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[01Jun2025 00:25:03.011] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[01Jun2025 00:25:03.011] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[01Jun2025 00:25:03.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[01Jun2025 00:25:03.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[01Jun2025 00:25:03.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[01Jun2025 00:25:03.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[01Jun2025 00:25:04.841] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1009 2637 2637 VisualFallingBlockEntity['Falling Deepslate'/40920, l='ServerLevel[world]', x=-1008.50, y=-55.00, z=2637.50]
+[01Jun2025 00:25:09.038] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1004 2637 2637 VisualFallingBlockEntity['Falling Deepslate'/41002, l='ServerLevel[world]', x=-1003.50, y=-56.00, z=2637.50]
+[01Jun2025 00:25:13.338] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -1000 2638 2638 VisualFallingBlockEntity['Falling Deepslate'/41080, l='ServerLevel[world]', x=-999.50, y=-53.00, z=2638.50]
+[01Jun2025 00:25:20.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -993 2637 2637 VisualFallingBlockEntity['Falling Deepslate'/41184, l='ServerLevel[world]', x=-992.50, y=-54.00, z=2637.50]
+[01Jun2025 00:25:25.435] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -988 2641 2641 VisualFallingBlockEntity['Falling Deepslate'/41294, l='ServerLevel[world]', x=-987.50, y=-56.00, z=2641.50]
+[01Jun2025 00:25:46.903] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] -984 2637 2637 VisualFallingBlockEntity['Falling Deepslate'/41775, l='ServerLevel[world]', x=-983.50, y=-53.00, z=2637.50]
+[01Jun2025 00:25:48.647] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[01Jun2025 00:28:47.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 00:28:47.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

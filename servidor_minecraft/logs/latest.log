@@ -209,3 +209,11 @@
 [01Jun2025 00:18:03.883] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [01Jun2025 00:18:05.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [01Jun2025 00:18:05.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[01Jun2025 00:19:27.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[01Jun2025 00:19:45.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> holaaa santi
+[01Jun2025 00:21:20.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Best Friends Forever]
+[01Jun2025 00:22:10.030] [Worker-Main-79/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jun2025 00:22:10.031] [Worker-Main-79/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jun2025 00:22:57.400] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jun2025 00:22:57.401] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jun2025 00:25:48.647] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
