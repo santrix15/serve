@@ -11480,5 +11480,11 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-06-01 03:49:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

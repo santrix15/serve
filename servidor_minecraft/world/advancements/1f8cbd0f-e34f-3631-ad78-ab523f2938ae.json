@@ -74,6 +74,7 @@
       "minecraft:cherry_grove": "2025-05-03 00:51:52 +0000",
       "minecraft:sunflower_plains": "2025-05-03 01:27:47 +0000",
       "minecraft:birch_forest": "2025-05-11 00:51:22 +0000",
+      "minecraft:bamboo_jungle": "2025-06-01 03:51:06 +0000",
       "minecraft:savanna_plateau": "2025-05-03 01:31:31 +0000",
       "minecraft:beach": "2025-05-03 00:11:00 +0000",
       "minecraft:dark_forest": "2025-05-11 01:50:14 +0000",
@@ -91,6 +92,7 @@
       "minecraft:forest": "2025-05-02 23:17:09 +0000",
       "minecraft:deep_cold_ocean": "2025-05-11 02:23:56 +0000",
       "minecraft:frozen_ocean": "2025-05-11 05:18:16 +0000",
+      "minecraft:desert": "2025-06-01 03:51:17 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-11 05:17:55 +0000",
       "minecraft:ocean": "2025-05-03 01:19:49 +0000",
       "minecraft:jungle": "2025-05-06 00:44:14 +0000",
@@ -11026,9 +11028,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-06-01 03:55:19 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2025-06-01 03:46:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-06-01 03:54:00 +0000"
     },
     "done": true
   },
