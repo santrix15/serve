@@ -1779,6 +1779,7 @@
       "minecraft:evoker": "2025-05-11 02:34:54 +0000",
       "minecraft:phantom": "2025-05-24 05:04:53 +0000",
       "minecraft:zombified_piglin": "2025-05-21 19:48:58 +0000",
+      "minecraft:witch": "2025-06-01 04:50:36 +0000",
       "minecraft:husk": "2025-05-06 20:43:45 +0000",
       "minecraft:cave_spider": "2025-05-11 01:21:35 +0000",
       "minecraft:piglin": "2025-05-11 04:16:03 +0000",
@@ -9989,6 +9990,7 @@
   },
   "illageandspillage:kill_all_iands": {
     "criteria": {
+      "illageandspillage:spiritcaller": "2025-06-01 04:57:12 +0000",
       "illageandspillage:preserver": "2025-05-25 05:12:42 +0000",
       "illageandspillage:absorber": "2025-05-25 06:10:29 +0000",
       "illageandspillage:engineer": "2025-05-25 06:09:24 +0000",
@@ -11499,6 +11501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-01 04:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-01 04:00:55 +0000"
@@ -11529,6 +11537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-01 04:52:47 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_haunted_guard": {
     "criteria": {
       "ambusher": "2025-06-01 04:15:34 +0000"
@@ -11553,6 +11567,12 @@
     },
     "done": true
   },
+  "illageandspillage:kill_spiri": {
+    "criteria": {
+      "requirement": "2025-06-01 04:57:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-01 04:00:55 +0000"
@@ -11562,6 +11582,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-01 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-01 04:52:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-06-01 04:52:47 +0000"
     },
     "done": true
   },
