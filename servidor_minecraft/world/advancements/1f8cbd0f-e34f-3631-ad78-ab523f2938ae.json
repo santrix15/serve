@@ -10784,9 +10784,159 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_chair": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_coffee_table": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_chair": {
+    "criteria": {
+      "has_planks": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_crate": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_table": {
+    "criteria": {
+      "has_planks": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk": {
+    "criteria": {
+      "has_planks": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-06-01 00:46:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_table": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_desk": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_crate": {
+    "criteria": {
+      "has_planks": "2025-06-01 01:16:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_blinds": {
+    "criteria": {
+      "has_log": "2025-06-01 01:16:19 +0000"
     },
     "done": true
   },
