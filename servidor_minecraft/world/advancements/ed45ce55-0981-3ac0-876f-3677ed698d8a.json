@@ -74,6 +74,7 @@
       "minecraft:cherry_grove": "2025-05-22 01:51:28 +0000",
       "minecraft:sunflower_plains": "2025-05-22 01:58:24 +0000",
       "minecraft:birch_forest": "2025-05-25 01:43:57 +0000",
+      "minecraft:bamboo_jungle": "2025-06-01 01:48:59 +0000",
       "minecraft:savanna_plateau": "2025-05-23 23:56:37 +0000",
       "minecraft:beach": "2025-05-06 21:05:22 +0000",
       "minecraft:dark_forest": "2025-05-30 23:51:58 +0000",
@@ -3378,6 +3379,7 @@
       "chicken": "2025-05-27 22:53:13 +0000",
       "sweet_berries": "2025-05-31 02:53:52 +0000",
       "beef": "2025-05-24 00:42:27 +0000",
+      "baked_potato": "2025-06-01 01:33:16 +0000",
       "porkchop": "2025-05-22 01:57:19 +0000",
       "apple": "2025-05-10 03:12:02 +0000",
       "mutton": "2025-05-22 01:58:16 +0000",
@@ -6417,6 +6419,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-01 01:33:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-06-01 00:19:37 +0000"
@@ -6531,6 +6539,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-06-01 02:16:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2025-06-01 00:19:37 +0000"
@@ -6564,6 +6578,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-01 00:19:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-01 01:33:13 +0000"
     },
     "done": true
   },
