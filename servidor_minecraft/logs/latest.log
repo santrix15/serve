@@ -444,3 +444,35 @@
 [01Jun2025 00:46:11.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Bypassing the Expiration Date]
 [01Jun2025 00:48:51.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was killed
 [01Jun2025 00:49:43.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-134, y=12, z=342} BlockPos{x=-135, y=12, z=342}
+[01Jun2025 00:51:13.740] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 00:51:13.741] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1869581
+}
+[01Jun2025 00:51:13.743] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[01Jun2025 00:51:13.743] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9~Y_tT^>%3525ki >"
+]
+[01Jun2025 00:55:06.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[01Jun2025 00:55:06.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[01Jun2025 00:55:06.141] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[01Jun2025 00:55:54.329] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 00:55:54.330] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15612
+}
+[01Jun2025 00:55:54.330] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[01Jun2025 00:55:54.330] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "q&0-95>+N320/L?2"
+]
+[01Jun2025 00:59:35.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautiABC[/127.52.80.31:58925] logged in with entity id 74212 at (-1496.5, 81.0, 2191.5)
+[01Jun2025 00:59:35.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC joined the game
+[01Jun2025 00:59:35.080] [Server thread/INFO] [Jade/]: Syncing config to lautiABC (71cf154b-6e54-326e-9700-98d60017873d)
+[01Jun2025 00:59:36.440] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautiABC (18)
+[01Jun2025 00:59:36.440] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[01Jun2025 00:59:45.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[01Jun2025 00:59:46.184] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[01Jun2025 00:59:46.185] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[01Jun2025 01:00:48.834] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
