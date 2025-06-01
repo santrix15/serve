@@ -9067,10 +9067,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-21 19:55:39 +0000",
       "minecraft:nether_wastes": "2025-05-21 19:46:21 +0000",
+      "minecraft:soul_sand_valley": "2025-06-01 00:40:13 +0000",
       "minecraft:basalt_deltas": "2025-05-21 21:52:58 +0000",
       "minecraft:warped_forest": "2025-06-01 00:32:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/distract_piglin": {
     "criteria": {
@@ -11424,6 +11425,12 @@
     },
     "done": true
   },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-06-01 00:40:13 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/enter_soul_glass": {
     "criteria": {
       "condition": "2025-06-01 00:33:18 +0000"
@@ -11439,6 +11446,18 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-05-31 23:41:34 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/ssv_sub_biomes": {
+    "criteria": {
+      "netherexp:black_ice_glaciers": "2025-06-01 00:38:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-06-01 00:45:59 +0000"
     },
     "done": true
   },

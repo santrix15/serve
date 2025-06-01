@@ -10784,5 +10784,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-06-01 00:46:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

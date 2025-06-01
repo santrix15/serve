@@ -10911,3 +10911,46 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 00:39:22.042] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748738362012
 [01Jun2025 00:39:56.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Deepling Brute
 [01Jun2025 00:39:58.433] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748738398422
+[01Jun2025 00:40:13.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Hot Tourist Destinations]
+[01Jun2025 00:40:22.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Deepling Brute
+[01Jun2025 00:40:24.363] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748738424359
+[01Jun2025 00:40:31.636] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/58771, l='ServerLevel[world]', x=-1026.00, y=31.00, z=-429.00] as it would cause deadlock
+[01Jun2025 00:41:20.236] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[01Jun2025 00:41:20.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported lobo3224 to Santix15]
+[01Jun2025 00:41:20.565] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748738480522
+[01Jun2025 00:42:06.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/2x2/tunnel
+[01Jun2025 00:43:47.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 00:43:47.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 00:45:12.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> gonza el agus dice gonza q gusano de mierda hijo de tremil puta xd lol
+[01Jun2025 00:45:19.990] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[01Jun2025 00:45:22.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> XD
+[01Jun2025 00:45:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Bypassing the Expiration Date]
+[01Jun2025 00:46:11.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Bypassing the Expiration Date]
+[01Jun2025 00:47:39.152] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[01Jun2025 00:47:39.154] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1445, y=118, z=2409} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[01Jun2025 00:47:39.154] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1445, y=118, z=2409} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[01Jun2025 00:47:39.475] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748738859472
+[01Jun2025 00:47:48.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -186 297 297 VisualFallingBlockEntity['Falling Netherrack'/66516, l='ServerLevel[world]', x=-185.50, y=99.00, z=297.50]
+[01Jun2025 00:47:59.430] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-305, y=54, z=1092}
+[01Jun2025 00:47:59.430] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-305, y=54, z=1089}
+[01Jun2025 00:48:22.642] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -182 326 326 VisualFallingBlockEntity['Falling Netherrack'/67167, l='ServerLevel[world]', x=-181.50, y=75.00, z=326.50]
+[01Jun2025 00:48:22.645] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -183 324 324 VisualFallingBlockEntity['Falling Netherrack'/67168, l='ServerLevel[world]', x=-182.50, y=75.00, z=324.50]
+[01Jun2025 00:48:22.647] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -185 327 327 VisualFallingBlockEntity['Falling Netherrack'/67169, l='ServerLevel[world]', x=-184.50, y=75.00, z=327.50]
+[01Jun2025 00:48:47.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 00:48:47.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 00:48:51.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was killed
+[01Jun2025 00:48:52.884] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748738932881
+[01Jun2025 00:48:54.997] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -163 328 328 VisualFallingBlockEntity['Falling Netherrack'/67694, l='ServerLevel[world]', x=-162.50, y=39.00, z=328.50]
+[01Jun2025 00:48:54.999] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -165 327 327 VisualFallingBlockEntity['Falling Netherrack'/67695, l='ServerLevel[world]', x=-164.50, y=39.00, z=327.50]
+[01Jun2025 00:49:43.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-134, y=12, z=342} BlockPos{x=-135, y=12, z=342}
+[01Jun2025 00:49:52.890] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -120 344 344 VisualFallingBlockEntity['Falling Netherrack'/68207, l='ServerLevel[world]', x=-119.50, y=12.00, z=344.50]
+[01Jun2025 00:50:00.345] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -108 341 341 VisualFallingBlockEntity['Falling Netherrack'/68323, l='ServerLevel[world]', x=-107.50, y=10.00, z=341.50]
+[01Jun2025 00:50:02.844] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -106 344 344 VisualFallingBlockEntity['Falling Netherrack'/68363, l='ServerLevel[world]', x=-105.50, y=9.00, z=344.50]
+[01Jun2025 00:50:04.955] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -96 341 341 VisualFallingBlockEntity['Falling Netherrack'/68400, l='ServerLevel[world]', x=-95.50, y=9.00, z=341.50]
+[01Jun2025 00:50:08.542] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -87 343 343 VisualFallingBlockEntity['Falling Netherrack'/68460, l='ServerLevel[world]', x=-86.50, y=11.00, z=343.50]
+[01Jun2025 00:50:10.340] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -82 344 344 VisualFallingBlockEntity['Falling Netherrack'/68566, l='ServerLevel[world]', x=-81.50, y=11.00, z=344.50]
+[01Jun2025 00:50:10.342] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -82 342 342 VisualFallingBlockEntity['Falling Netherrack'/68567, l='ServerLevel[world]', x=-81.50, y=11.00, z=342.50]
+[01Jun2025 00:50:19.893] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -74 341 341 VisualFallingBlockEntity['Falling Netherrack'/68655, l='ServerLevel[world]', x=-73.50, y=10.00, z=341.50]
+[01Jun2025 00:50:19.896] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -74 344 344 VisualFallingBlockEntity['Falling Netherrack'/68656, l='ServerLevel[world]', x=-73.50, y=11.00, z=344.50]
+[01Jun2025 00:50:22.492] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -67 344 344 VisualFallingBlockEntity['Falling Netherrack'/68682, l='ServerLevel[world]', x=-66.50, y=8.00, z=344.50]
+[01Jun2025 00:50:22.495] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:netherrack} -64 342 342 VisualFallingBlockEntity['Falling Netherrack'/68683, l='ServerLevel[world]', x=-63.50, y=8.00, z=342.50]
