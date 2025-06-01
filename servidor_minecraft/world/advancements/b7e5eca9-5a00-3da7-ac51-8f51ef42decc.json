@@ -1781,6 +1781,7 @@
       "minecraft:zombified_piglin": "2025-05-21 19:48:58 +0000",
       "minecraft:witch": "2025-06-01 04:50:36 +0000",
       "minecraft:husk": "2025-05-06 20:43:45 +0000",
+      "minecraft:ender_dragon": "2025-06-01 06:05:26 +0000",
       "minecraft:cave_spider": "2025-05-11 01:21:35 +0000",
       "minecraft:piglin": "2025-05-11 04:16:03 +0000",
       "minecraft:enderman": "2025-05-06 00:48:18 +0000",
@@ -11502,6 +11503,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-06-01 06:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-06-01 05:57:45 +0000"
@@ -11649,6 +11656,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-01 05:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-06-01 06:05:26 +0000"
     },
     "done": true
   },

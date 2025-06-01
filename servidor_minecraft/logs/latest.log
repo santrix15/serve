@@ -3381,3 +3381,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 05:57:39.339] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
 [01Jun2025 05:57:39.340] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
 [01Jun2025 05:57:49.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The End?]
+[01Jun2025 06:02:29.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [You Need a Mint]
+[01Jun2025 06:05:26.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Free the End]
+[01Jun2025 06:07:08.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has reached the goal [The Next Generation]
+[01Jun2025 06:08:07.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [The Next Generation]
+[01Jun2025 06:08:33.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Spectator Mode]
+[01Jun2025 06:09:34.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set own game mode to Survival Mode]
+[01Jun2025 06:10:33.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Remote Getaway]
+[01Jun2025 06:10:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Ender Distancing]
+[01Jun2025 06:11:03.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Capsid-19]
+[01Jun2025 06:11:14.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The Chorus Infection]
+[01Jun2025 06:11:21.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Remote Getaway]
+[01Jun2025 06:11:45.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Ender Distancing]
+[01Jun2025 06:11:47.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Capsid-19]
