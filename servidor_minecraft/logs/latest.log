@@ -2665,3 +2665,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 03:26:27.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
 [01Jun2025 03:26:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
 [01Jun2025 03:26:27.940] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[01Jun2025 03:28:56.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[01Jun2025 03:30:57.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[01Jun2025 03:31:23.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> y como estuvo tu cenita
+[01Jun2025 03:31:49.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> ñica
+[01Jun2025 03:33:38.082] [Worker-Main-47/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Jun2025 03:33:38.131] [Worker-Main-47/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Jun2025 03:33:38.293] [Worker-Main-47/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Jun2025 03:33:38.303] [Worker-Main-47/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[01Jun2025 03:34:40.420] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[01Jun2025 03:36:04.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[01Jun2025 03:37:43.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautiABC[/127.52.80.31:60233] logged in with entity id 22785 at (-271.14672838290574, 68.0, 393.48985360720883)
+[01Jun2025 03:37:43.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC joined the game
+[01Jun2025 03:37:43.865] [Server thread/INFO] [Jade/]: Syncing config to lautiABC (71cf154b-6e54-326e-9700-98d60017873d)
+[01Jun2025 03:37:47.891] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautiABC (18)
+[01Jun2025 03:37:47.892] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[01Jun2025 03:38:18.962] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[01Jun2025 03:38:19.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[01Jun2025 03:38:19.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
