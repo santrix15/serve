@@ -2639,3 +2639,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 03:07:18.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ok
 [01Jun2025 03:07:24.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set the weather to clear]
 [01Jun2025 03:07:26.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> gracias
+[01Jun2025 03:07:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> dn
+[01Jun2025 03:14:44.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.97.80.234:39269] logged in with entity id 10270 at (-1491.9290453399285, 78.0, 2192.2803669021837)
+[01Jun2025 03:14:44.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[01Jun2025 03:14:44.936] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[01Jun2025 03:14:46.299] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[01Jun2025 03:14:46.300] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[01Jun2025 03:14:58.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[01Jun2025 03:14:59.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[01Jun2025 03:14:59.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[01Jun2025 03:15:26.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hola
+[01Jun2025 03:16:10.727] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
