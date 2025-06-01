@@ -9051,3 +9051,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 02:45:50.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lobo3224: ahora me uno
 [01Jun2025 02:46:40.060] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@4e4173a7 for service interface com.blamejared.clumps.platform.IEventHelper
 [01Jun2025 02:46:40.061] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@653e933b for service interface com.blamejared.clumps.platform.IPlatformHelper
+[01Jun2025 02:47:54.639] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of YOUNGDINO07: {disabled=false, disconnected=false, uuid=ed45ce55-0981-3ac0-876f-3677ed698d8a, name=YOUNGDINO07, group=49b89980-8094-4522-a1af-6c3d7df3d6da}
+[01Jun2025 02:48:02.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[01Jun2025 02:48:29.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 02:48:29.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 02:48:29.603] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.netherexp.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Jun2025 02:48:29.603] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Jun2025 02:48:33.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[01Jun2025 02:48:33.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[01Jun2025 02:48:33.138] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lobo3224
+[01Jun2025 02:48:33.138] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[01Jun2025 02:48:33.167] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[01Jun2025 02:48:33.167] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[01Jun2025 02:48:33.184] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[01Jun2025 02:48:33.210] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[01Jun2025 02:48:33.216] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[01Jun2025 02:48:33.250] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[01Jun2025 02:53:29.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 02:53:29.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

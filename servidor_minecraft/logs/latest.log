@@ -2499,3 +2499,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 02:44:22.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
 [01Jun2025 02:45:01.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to YOUNGDINO07: te estoy viendo
 [01Jun2025 02:45:50.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lobo3224: ahora me uno
+[01Jun2025 02:48:33.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[01Jun2025 02:48:33.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[01Jun2025 02:48:33.138] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
