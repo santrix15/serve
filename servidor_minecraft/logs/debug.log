@@ -12369,3 +12369,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 06:18:41.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Jun2025 06:18:41.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jun2025 06:21:22.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Barren Tourist Destinations]
+[01Jun2025 06:23:41.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 06:23:41.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 06:23:47.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [There Is No Gravity Here!]
+[01Jun2025 06:23:51.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [There Is No Gravity Here!]
+[01Jun2025 06:25:09.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Spooky Scary Shulker Box]
+[01Jun2025 06:25:41.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[01Jun2025 06:25:41.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[01Jun2025 06:25:41.124] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lobo3224
+[01Jun2025 06:25:41.124] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[01Jun2025 06:28:41.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 06:28:41.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1753,6 +1753,7 @@
       "minecraft:phantom": "2025-05-08 00:51:53 +0000",
       "minecraft:witch": "2025-05-25 06:09:27 +0000",
       "minecraft:wither_skeleton": "2025-05-12 04:37:15 +0000",
+      "minecraft:shulker": "2025-06-01 06:24:26 +0000",
       "minecraft:cave_spider": "2025-05-11 01:24:59 +0000",
       "minecraft:piglin": "2025-05-11 04:15:20 +0000",
       "minecraft:stray": "2025-05-11 01:26:23 +0000",
@@ -11124,6 +11125,12 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-06-01 05:40:09 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_shulker_tower": {
+    "criteria": {
+      "tower": "2025-06-01 06:23:51 +0000"
     },
     "done": true
   },
