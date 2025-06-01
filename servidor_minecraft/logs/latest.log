@@ -3269,3 +3269,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 05:10:33.254] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [01Jun2025 05:10:34.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [01Jun2025 05:10:34.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[01Jun2025 05:11:24.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Best Friends Forever]
+[01Jun2025 05:16:38.421] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/80733, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[01Jun2025 05:16:48.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set the weather to clear]
+[01Jun2025 05:19:04.228] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
