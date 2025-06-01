@@ -1785,6 +1785,7 @@
       "minecraft:piglin": "2025-05-11 04:16:03 +0000",
       "minecraft:enderman": "2025-05-06 00:48:18 +0000",
       "minecraft:stray": "2025-05-11 01:27:08 +0000",
+      "minecraft:silverfish": "2025-06-01 05:49:24 +0000",
       "minecraft:vex": "2025-05-25 06:17:00 +0000",
       "minecraft:zombie": "2025-05-02 23:40:32 +0000",
       "minecraft:drowned": "2025-05-11 01:42:25 +0000",
@@ -11489,15 +11490,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-01 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-01 04:00:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-01 05:57:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-01 05:47:46 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-06-01 05:57:45 +0000"
     },
     "done": true
   },
@@ -11579,9 +11598,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-01 05:57:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-01 04:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-01 05:48:56 +0000"
     },
     "done": true
   },
@@ -11600,6 +11631,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-01 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-01 05:57:33 +0000"
     },
     "done": true
   },
@@ -11624,6 +11661,12 @@
   "illageandspillage:kill_spiri": {
     "criteria": {
       "requirement": "2025-06-01 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-06-01 05:57:45 +0000"
     },
     "done": true
   },
@@ -11663,6 +11706,18 @@
     },
     "done": true
   },
+  "enderitemod:explore_all_end_biomes": {
+    "criteria": {
+      "theend": "2025-06-01 05:57:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-06-01 05:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-01 04:00:55 +0000"
@@ -11672,6 +11727,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-01 04:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-01 05:57:33 +0000"
     },
     "done": true
   },
@@ -11696,6 +11757,18 @@
   "legendary_monsters:defeat_haunted_knight": {
     "criteria": {
       "ambusher": "2025-06-01 04:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-01 05:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-01 05:57:45 +0000"
     },
     "done": true
   },

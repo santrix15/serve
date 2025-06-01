@@ -12134,3 +12134,157 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 05:49:49.994] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [01Jun2025 05:50:35.984] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [01Jun2025 05:50:53.078] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01Jun2025 05:52:47.641] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01Jun2025 05:53:13.652] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 05:53:13.653] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=795, z=1073200}"
+}
+[01Jun2025 05:53:13.653] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 05:53:13.653] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-93, -119, -45, -75, -88, 18, -24, -113, 112, -66, -29]"
+]
+[01Jun2025 05:53:14.358] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 05:53:14.359] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=898, z=1073200}"
+}
+[01Jun2025 05:53:14.359] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 05:53:14.359] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-76, 82, 58, 74, 41, -39, -121, 71, 78, -2, 58]"
+]
+[01Jun2025 05:53:14.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Eye Spy]
+[01Jun2025 05:53:14.901] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 05:53:14.902] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=929, z=1073200}"
+}
+[01Jun2025 05:53:14.902] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 05:53:14.902] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, -21, 2, -34, -90, 56, -112, 3, -5, 99, 102]"
+]
+[01Jun2025 05:53:15.129] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 05:53:15.130] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1009, z=1073200}"
+}
+[01Jun2025 05:53:15.130] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 05:53:15.130] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[22, -31, 17, -112, -40, -62, -63, 19, 90, 100, 73]"
+]
+[01Jun2025 05:53:15.696] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 05:53:15.696] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=998, z=1122352}"
+}
+[01Jun2025 05:53:15.696] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 05:53:15.697] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-63, 77, -94, 102, -62, 13, -90, 121, -75, -8, 34]"
+]
+[01Jun2025 05:53:16.761] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 05:53:16.761] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=972, z=1073200}"
+}
+[01Jun2025 05:53:16.761] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 05:53:16.761] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[55, -49, -22, 84, 70, 62, 125, -125, -59, -76, 63]"
+]
+[01Jun2025 05:53:18.447] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 05:53:18.447] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=924, z=1073200}"
+}
+[01Jun2025 05:53:18.447] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 05:53:18.447] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[119, -12, 61, 69, -31, 61, 10, 123, -115, -79, -96]"
+]
+[01Jun2025 05:53:21.134] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Jun2025 05:53:21.135] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1022, z=1073200}"
+}
+[01Jun2025 05:53:21.135] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[01Jun2025 05:53:21.135] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[16, -30, 126, -111, 47, 113, -119, -127, -96, -28, -42]"
+]
+[01Jun2025 05:53:34.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:53:34.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 05:54:04.751] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01Jun2025 05:55:18.459] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[01Jun2025 05:57:30.499] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[01Jun2025 05:57:30.508] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[01Jun2025 05:57:30.512] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[01Jun2025 05:57:30.513] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[01Jun2025 05:57:30.519] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[01Jun2025 05:57:30.522] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[01Jun2025 05:57:30.542] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[01Jun2025 05:57:30.594] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[01Jun2025 05:57:30.623] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_1 is being run through DFU (hash 00ba2bc4598efe8df039eefaabc30fba7918052f5e2bf78c55e96508a85974c2), this will cause launch time delays
+[01Jun2025 05:57:30.837] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[01Jun2025 05:57:30.840] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[01Jun2025 05:57:30.842] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[01Jun2025 05:57:30.847] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_3
+[01Jun2025 05:57:30.850] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[01Jun2025 05:57:30.861] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[01Jun2025 05:57:30.875] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[01Jun2025 05:57:30.904] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[01Jun2025 05:57:30.984] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[01Jun2025 05:57:32.187] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[01Jun2025 05:57:32.554] [Worker-Main-1/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:obsidilith_arena/base is being run through DFU (hash 5aae15799233df324ef3fffe90f32ece26a2e0972b73cddf8f2c25d40189f4e8), this will cause launch time delays
+[01Jun2025 05:57:33.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The End?]
+[01Jun2025 05:57:33.324] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[01Jun2025 05:57:33.328] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[01Jun2025 05:57:34.297] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel5 is being run through DFU (hash f760e92d1b0e922087b2c2ce77e9eae21a9ddc080e2b08cc374f5daf614c9cd7), this will cause launch time delays
+[01Jun2025 05:57:34.660] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel14 is being run through DFU (hash f6b07a6e95f8f46457e747f727872725582756da5910b39a6430cc679038b856), this will cause launch time delays
+[01Jun2025 05:57:34.944] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel6 is being run through DFU (hash ebd80a096c5b13e6fea284e961b1c97b3c24c782e536609c1a0f14c8b22a0638), this will cause launch time delays
+[01Jun2025 05:57:35.119] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel15 is being run through DFU (hash bdd0b478476e695a49c18804e08699e09c5a557e27d1ee1e93b1bd7ec4aa8821), this will cause launch time delays
+[01Jun2025 05:57:35.306] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel4 is being run through DFU (hash 0f8323415d9b378538f4bacd8cbc6e34b9030b7fbbc4baaf48d45a63d1a8feca), this will cause launch time delays
+[01Jun2025 05:57:35.409] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel13 is being run through DFU (hash e856a6d0abab7d6d830df9a7644e308eddfe7d4cf7c766d8819e14e09bd6927a), this will cause launch time delays
+[01Jun2025 05:57:35.482] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel2 is being run through DFU (hash c892f45c824ecd31d15de9a086ea330c78362b864db3ad23a92a573a796e9262), this will cause launch time delays
+[01Jun2025 05:57:35.572] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel11 is being run through DFU (hash 0f9681aab747a7569192298ca6c9492f1d54218c57b3cefc48e7e935f886e613), this will cause launch time delays
+[01Jun2025 05:57:35.742] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel8 is being run through DFU (hash cf43aea391acc6ba5266ac8ce280b5638e147fd494e65c6d85a5540919c1acb8), this will cause launch time delays
+[01Jun2025 05:57:35.841] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel17 is being run through DFU (hash f908c8db32ad0f01a3083dc2d794bc7ac1adf4587e53238bdcfeca892c64aeec), this will cause launch time delays
+[01Jun2025 05:57:35.911] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel1 is being run through DFU (hash 6949334b931aacbfc072e9f6b0a1fd8bc9d326b8114aed2538a08e8923cd8558), this will cause launch time delays
+[01Jun2025 05:57:35.946] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel10 is being run through DFU (hash d05333de3ddcf2ec40ed4fe2601c3b7ac41247543e75408d04615df083ffbe55), this will cause launch time delays
+[01Jun2025 05:57:36.001] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel3 is being run through DFU (hash 2cd506227306fabe9de492bb88f74b5eca5038727e05795fe6b6bb34dbec65fa), this will cause launch time delays
+[01Jun2025 05:57:36.030] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel12 is being run through DFU (hash a269ff037ff376e2e8529651c5c0bae1a4903d6322e094a0d92f8d8565a03e7f), this will cause launch time delays
+[01Jun2025 05:57:36.103] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel9 is being run through DFU (hash 06f4088a09a33a9fda1450a9bd389a3a00acebc44ee1e37fa0cdb7639705d6f4), this will cause launch time delays
+[01Jun2025 05:57:36.189] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel18 is being run through DFU (hash f6bb6d4712918e3f766e2b28ce8eefa35f995e3d102ac7e1723ff02e09a678be), this will cause launch time delays
+[01Jun2025 05:57:36.256] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel7 is being run through DFU (hash b405ea6bdf6d9a186c2cc9718fe508d8ed8d59e3785428407f46a50c92e86d28), this will cause launch time delays
+[01Jun2025 05:57:36.303] [Worker-Main-10/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel16 is being run through DFU (hash c3a0075667cc96a9e603b4dbfb8651446d631e6db023453b6a977f9e6bcad14c), this will cause launch time delays
+[01Jun2025 05:57:37.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6629ms or 132 ticks behind
+[01Jun2025 05:57:37.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved too quickly! 2278.9676424874865,59.46415937495544,-1012.9608392969312
+[01Jun2025 05:57:37.131] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748757453654
+[01Jun2025 05:57:39.339] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[01Jun2025 05:57:39.340] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[01Jun2025 05:57:49.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The End?]
+[01Jun2025 05:57:49.520] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[01Jun2025 05:57:49.521] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[01Jun2025 05:57:49.942] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748757469930
+[01Jun2025 05:58:41.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 05:58:41.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
