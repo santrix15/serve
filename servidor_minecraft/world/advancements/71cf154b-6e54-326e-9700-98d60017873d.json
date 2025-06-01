@@ -2075,6 +2075,7 @@
       "rotten_flesh": "2025-05-29 23:49:53 +0000",
       "salmon": "2025-06-01 01:28:26 +0000",
       "melon_slice": "2025-05-27 23:12:47 +0000",
+      "golden_carrot": "2025-06-01 02:27:20 +0000",
       "carrot": "2025-05-29 23:43:59 +0000"
     },
     "done": false
@@ -5951,6 +5952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-01 02:20:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-06-01 02:08:40 +0000"
@@ -5981,6 +5988,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-06-01 02:28:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-01 01:29:15 +0000"
@@ -5990,6 +6003,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-01 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-01 02:26:29 +0000"
     },
     "done": true
   },
@@ -6047,6 +6066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-01 02:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-01 01:29:15 +0000"
@@ -6074,6 +6099,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-01 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/misc/backpack": {
+    "criteria": {
+      "has_hide": "2025-06-01 02:26:29 +0000"
     },
     "done": true
   },
@@ -6116,6 +6147,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-01 01:29:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-01 02:20:49 +0000"
     },
     "done": true
   },
