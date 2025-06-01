@@ -10083,3 +10083,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 03:15:26.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hola
 [01Jun2025 03:16:10.727] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
 [01Jun2025 03:16:55.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[01Jun2025 03:18:29.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 03:18:29.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 03:19:43.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3630, l='ServerLevel[world]', x=-736.63, y=75.00, z=4217.83] died, message: 'Unemployed was slain by Beast Patient'
+[01Jun2025 03:21:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC burned to death
+[01Jun2025 03:21:10.050] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748748070023
+[01Jun2025 03:21:19.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[01Jun2025 03:21:21.091] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748748081066
+[01Jun2025 03:23:29.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jun2025 03:23:29.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jun2025 03:24:21.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14561, l='ServerLevel[world]', x=-209.50, y=95.00, z=281.10] died, message: 'Farmer was slain by Sprinter'
+[01Jun2025 03:25:16.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d timed out
+[01Jun2025 03:25:16.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lautiABC
+[01Jun2025 03:25:16.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to lautiABC
+[01Jun2025 03:25:16.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with lautiABC
+[01Jun2025 03:25:16.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with lautiABC
+[01Jun2025 03:25:16.935] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[01Jun2025 03:25:16.936] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 71cf154b-6e54-326e-9700-98d60017873d to disconnected: {disabled=false, disconnected=true, uuid=71cf154b-6e54-326e-9700-98d60017873d, name=lautiABC, group=49b89980-8094-4522-a1af-6c3d7df3d6da}
+[01Jun2025 03:25:51.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Timed out
+[01Jun2025 03:25:51.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[01Jun2025 03:25:51.098] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lautiABC
+[01Jun2025 03:25:51.098] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[01Jun2025 03:25:51.143] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 03:26:02.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> a
+[01Jun2025 03:26:27.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[01Jun2025 03:26:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[01Jun2025 03:26:27.940] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of YOUNGDINO07
+[01Jun2025 03:26:27.940] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[01Jun2025 03:26:27.941] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[01Jun2025 03:26:27.955] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[01Jun2025 03:26:27.997] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[01Jun2025 03:27:22.352] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=455ffd22-1617-4e23-b7a7-06f6cb9f6b23}

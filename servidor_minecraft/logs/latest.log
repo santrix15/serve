@@ -2650,3 +2650,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 03:14:59.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
 [01Jun2025 03:15:26.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hola
 [01Jun2025 03:16:10.727] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[01Jun2025 03:19:43.793] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3630, l='ServerLevel[world]', x=-736.63, y=75.00, z=4217.83] died, message: 'Unemployed was slain by Beast Patient'
+[01Jun2025 03:21:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC burned to death
+[01Jun2025 03:21:19.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 fell from a high place
+[01Jun2025 03:24:21.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14561, l='ServerLevel[world]', x=-209.50, y=95.00, z=281.10] died, message: 'Farmer was slain by Sprinter'
+[01Jun2025 03:25:16.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d timed out
+[01Jun2025 03:25:16.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lautiABC
+[01Jun2025 03:25:16.935] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[01Jun2025 03:25:51.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Timed out
+[01Jun2025 03:25:51.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[01Jun2025 03:25:51.098] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[01Jun2025 03:25:51.143] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 03:26:02.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> a
+[01Jun2025 03:26:27.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[01Jun2025 03:26:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[01Jun2025 03:26:27.940] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
