@@ -11284,3 +11284,43 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Jun2025 01:38:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> como va tu aventura kevin?
 [02Jun2025 01:39:06.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 01:39:06.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 01:41:38.220] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748828498220
+[02Jun2025 01:42:06.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> recien vengo de comer
+[02Jun2025 01:42:10.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=68, z=34}
+[02Jun2025 01:42:10.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=67, z=35}
+[02Jun2025 01:42:16.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=68, z=34}
+[02Jun2025 01:43:48.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> y vos santi
+[02Jun2025 01:43:52.664] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 01:43:52.664] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 173582
+}
+[02Jun2025 01:43:52.664] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[02Jun2025 01:43:52.665] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ",NfQtav8zXl*4645hv"
+]
+[02Jun2025 01:43:56.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> como va tu aventura?
+[02Jun2025 01:43:58.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> aaa okey
+[02Jun2025 01:44:06.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 01:44:06.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 01:44:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pues no hice nada casi
+[02Jun2025 01:44:19.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> voy a comer ahora
+[02Jun2025 01:44:29.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> ok xd
+[02Jun2025 01:44:29.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pero te dejo el server prendido
+[02Jun2025 01:44:34.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[02Jun2025 01:44:34.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[02Jun2025 01:44:34.818] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Santix15
+[02Jun2025 01:44:34.818] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[02Jun2025 01:48:07.672] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 01:48:07.672] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1687504
+}
+[02Jun2025 01:48:07.673] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[02Jun2025 01:48:07.673] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8[bX8sr\\9Y336:p,OZ"
+]
+[02Jun2025 01:49:06.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 01:49:06.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
