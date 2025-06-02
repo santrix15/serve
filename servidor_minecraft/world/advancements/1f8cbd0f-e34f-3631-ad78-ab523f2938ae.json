@@ -11289,6 +11289,48 @@
     },
     "done": true
   },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-06-02 00:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-02 00:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-02 00:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-02 00:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-06-02 00:19:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-06-02 00:19:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-06-02 00:19:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-06-02 00:34:47 +0000"
@@ -11313,18 +11355,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_aviary": {
-    "criteria": {
-      "location0": "2025-06-02 00:14:13 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/cosmic_cod": {
-    "criteria": {
-      "capsid": "2025-06-02 00:19:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-02 00:34:47 +0000"
@@ -11334,12 +11364,6 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_table": {
     "criteria": {
       "has_acacia_planks": "2025-06-02 00:34:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-06-02 00:15:06 +0000"
     },
     "done": true
   },
@@ -11415,24 +11439,6 @@
     },
     "done": true
   },
-  "enderitemod:enderite_scrap": {
-    "criteria": {
-      "unrefinedenderiteobtained": "2025-06-02 01:09:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-06-02 00:38:02 +0000"
-    },
-    "done": true
-  },
-  "enderitemod:obtain_enderite_ingot": {
-    "criteria": {
-      "obtainenderiteingot": "2025-06-02 01:10:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-02 00:34:47 +0000"
@@ -11448,12 +11454,6 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-06-02 00:34:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-06-02 00:19:39 +0000"
     },
     "done": true
   },
@@ -11493,27 +11493,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2025-06-02 00:19:25 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/acacia_coffee_table": {
     "criteria": {
       "has_planks": "2025-06-02 00:34:47 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_ancient_tower_remains": {
-    "criteria": {
-      "ancient_tower_remains": "2025-06-02 00:58:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-06-02 00:38:02 +0000"
     },
     "done": true
   },
@@ -11529,21 +11511,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-06-02 00:16:53 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/acacia_crate": {
     "criteria": {
       "has_planks": "2025-06-02 00:34:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_snowball": "2025-06-02 00:15:06 +0000"
+      "has_lilac": "2025-06-02 00:38:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-06-02 00:38:02 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_tower_remains": {
+    "criteria": {
+      "ancient_tower_remains": "2025-06-02 00:58:25 +0000"
+    },
+    "done": true
+  },
+  "enderitemod:enderite_scrap": {
+    "criteria": {
+      "unrefinedenderiteobtained": "2025-06-02 01:09:39 +0000"
+    },
+    "done": true
+  },
+  "enderitemod:obtain_enderite_ingot": {
+    "criteria": {
+      "obtainenderiteingot": "2025-06-02 01:10:04 +0000"
     },
     "done": true
   },
