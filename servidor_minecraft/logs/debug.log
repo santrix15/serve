@@ -11790,3 +11790,105 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Jun2025 02:29:12.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_0
 [02Jun2025 02:29:38.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
 [02Jun2025 02:29:40.062] [Worker-Main-208/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[02Jun2025 02:31:51.241] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 02:31:51.241] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13486
+}
+[02Jun2025 02:31:51.241] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[02Jun2025 02:31:51.242] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "I<\"$)0U%464n`e"
+]
+[02Jun2025 02:32:29.252] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 02:32:29.252] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 30
+}
+[02Jun2025 02:32:29.252] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 02:32:29.252] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "{|0gH9T;MdA`o-50336C~-)4J"
+]
+[02Jun2025 02:34:05.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:34:06.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:35:53.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Skeleton
+[02Jun2025 02:37:23.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[02Jun2025 02:37:23.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[02Jun2025 02:37:23.354] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of kevedo909
+[02Jun2025 02:37:23.354] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[02Jun2025 02:37:23.364] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.404] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.421] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.436] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.457] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.477] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.500] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.516] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.541] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.557] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.577] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.604] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.622] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.640] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.660] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.680] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.704] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.719] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.740] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.760] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.783] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.797] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.835] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.839] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.862] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.876] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.902] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.923] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:23.942] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:24.012] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:24.056] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:24.069] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:24.109] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:24.109] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:24.109] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:24.110] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:24.117] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:37:24.212] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[02Jun2025 02:38:42.663] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 02:38:42.664] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1322
+}
+[02Jun2025 02:38:42.664] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[02Jun2025 02:38:42.664] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ".p\\-,@`=`XP}464RIgI`"
+]
+[02Jun2025 02:39:05.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:39:05.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:43:30.759] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 02:43:30.759] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 28
+}
+[02Jun2025 02:43:30.759] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 02:43:30.760] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "TOy}E`+?yf(U(6336G\"(GP"
+]
+[02Jun2025 02:44:05.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:44:05.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 02:49:04.493] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 02:49:04.494] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 43
+}
+[02Jun2025 02:49:04.494] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 02:49:04.494] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":js?6*/@jZ1336!;_U;#a"
+]
+[02Jun2025 02:49:05.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 02:49:05.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
