@@ -11589,6 +11589,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/blood_sprayer": {
+    "criteria": {
+      "blood_sprayer": "2025-06-02 03:47:26 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/nether_bricks/blue/nether_bricks": {
     "criteria": {
       "has_item": "2025-06-02 03:35:27 +0000"
