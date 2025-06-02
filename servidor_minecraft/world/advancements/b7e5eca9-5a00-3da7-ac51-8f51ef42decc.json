@@ -11985,6 +11985,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-06-02 23:49:53 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/stayin_frosty": {
     "criteria": {
       "c1": "2025-06-02 22:35:55 +0000"
