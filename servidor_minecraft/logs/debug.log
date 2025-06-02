@@ -10114,3 +10114,159 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Jun2025 00:48:20.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=44}
 [02Jun2025 00:48:20.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=45}
 [02Jun2025 00:48:20.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=68, z=47}
+[02Jun2025 00:48:22.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=68, z=48}
+[02Jun2025 00:48:22.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=67, z=49} BlockPos{x=52, y=67, z=48}
+[02Jun2025 00:48:22.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=67, z=49} BlockPos{x=53, y=67, z=48}
+[02Jun2025 00:48:23.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=67, z=49} BlockPos{x=53, y=67, z=47}
+[02Jun2025 00:48:25.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=67, z=50} BlockPos{x=57, y=68, z=48}
+[02Jun2025 00:48:27.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 moved wrongly!
+[02Jun2025 00:48:31.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> eu
+[02Jun2025 00:48:38.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me escuchas?
+[02Jun2025 00:48:53.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 00:48:53.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 00:49:10.418] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 00:49:10.418] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 11958
+}
+[02Jun2025 00:49:10.419] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[02Jun2025 00:49:10.419] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "r!+eL%o(@p0xQ464A+)9=>"
+]
+[02Jun2025 00:49:23.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC drowned
+[02Jun2025 00:49:23.357] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockNeighborGroupMixin from lithium.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[02Jun2025 00:49:23.357] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:cached_hashcode.BlockNeighborGroupMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[02Jun2025 00:49:26.435] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748825366435
+[02Jun2025 00:49:26.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 drowned
+[02Jun2025 00:49:28.929] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748825368929
+[02Jun2025 00:49:31.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jajajajajaja
+[02Jun2025 00:49:36.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> que bots
+[02Jun2025 00:49:36.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[02Jun2025 00:49:36.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[02Jun2025 00:49:36.620] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lautiABC
+[02Jun2025 00:49:36.620] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[02Jun2025 00:49:36.621] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[02Jun2025 00:49:36.645] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[02Jun2025 00:49:36.664] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[02Jun2025 00:49:36.729] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[02Jun2025 00:49:36.732] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[02Jun2025 00:49:36.732] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[02Jun2025 00:49:36.768] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[02Jun2025 00:49:36.793] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[02Jun2025 00:49:36.793] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[02Jun2025 00:49:36.816] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[02Jun2025 00:49:41.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> na mentira
+[02Jun2025 00:49:44.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> nose que paso
+[02Jun2025 00:49:47.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[02Jun2025 00:49:55.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> se ahogaron
+[02Jun2025 00:50:03.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> el hdp me dejo a un corazon y se fue
+[02Jun2025 00:50:11.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> lo sigo y me ahoga
+[02Jun2025 00:50:30.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> hagan grupo
+[02Jun2025 00:50:35.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> polfavol}
+[02Jun2025 00:51:02.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> no pedo
+[02Jun2025 00:51:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Beast Patient
+[02Jun2025 00:51:26.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> -
+[02Jun2025 00:51:29.915] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748825489915
+[02Jun2025 00:51:34.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> y gonza?
+[02Jun2025 00:52:40.751] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 00:52:40.752] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 99
+}
+[02Jun2025 00:52:40.752] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 00:52:40.752] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Pr:=2eDKd2j8X336G%P("
+]
+[02Jun2025 00:53:49.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 moved wrongly!
+[02Jun2025 00:53:53.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 00:53:53.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 00:54:05.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[02Jun2025 00:54:05.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[02Jun2025 00:54:05.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[02Jun2025 00:54:05.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[02Jun2025 00:54:05.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[02Jun2025 00:54:05.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[02Jun2025 00:54:05.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[02Jun2025 00:54:05.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[02Jun2025 00:54:05.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[02Jun2025 00:54:05.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[02Jun2025 00:54:30.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[02Jun2025 00:54:37.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[02Jun2025 00:54:37.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[02Jun2025 00:54:41.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/downstairs_pool/haunted_house_downstairs
+[02Jun2025 00:54:49.570] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[02Jun2025 00:54:49.574] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[02Jun2025 00:54:49.577] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[02Jun2025 00:54:50.560] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[02Jun2025 00:54:50.569] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[02Jun2025 00:54:57.120] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_11
+[02Jun2025 00:55:03.424] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[02Jun2025 00:55:05.905] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[02Jun2025 00:55:06.292] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[02Jun2025 00:55:10.314] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[02Jun2025 00:55:14.577] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[02Jun2025 00:55:29.972] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[02Jun2025 00:55:34.247] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[02Jun2025 00:55:37.992] [Worker-Main-111/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail2
+[02Jun2025 00:55:47.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> el gonza esta jugando?
+[02Jun2025 00:55:56.811] [Worker-Main-110/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[02Jun2025 00:56:00.640] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 00:56:00.641] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 61583202
+}
+[02Jun2025 00:56:00.641] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[02Jun2025 00:56:00.641] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "*l0B7 .N[{]464.xnJ`R"
+]
+[02Jun2025 00:56:01.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[02Jun2025 00:56:01.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[02Jun2025 00:56:01.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[02Jun2025 00:56:01.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[02Jun2025 00:56:01.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[02Jun2025 00:56:01.193] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_04
+[02Jun2025 00:56:01.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[02Jun2025 00:56:01.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[02Jun2025 00:56:01.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[02Jun2025 00:56:01.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[02Jun2025 00:56:01.201] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[02Jun2025 00:56:01.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[02Jun2025 00:56:01.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[02Jun2025 00:56:01.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[02Jun2025 00:56:01.210] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[02Jun2025 00:56:01.212] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[02Jun2025 00:56:01.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[02Jun2025 00:56:01.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[02Jun2025 00:56:01.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_01
+[02Jun2025 00:56:01.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[02Jun2025 00:56:01.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[02Jun2025 00:56:21.645] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_03
+[02Jun2025 00:56:29.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_14
+[02Jun2025 00:57:02.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[02Jun2025 00:57:51.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_17
+[02Jun2025 00:58:07.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[02Jun2025 00:58:07.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[02Jun2025 00:58:07.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[02Jun2025 00:58:07.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[02Jun2025 00:58:07.885] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[02Jun2025 00:58:07.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[02Jun2025 00:58:07.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[02Jun2025 00:58:07.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[02Jun2025 00:58:07.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[02Jun2025 00:58:07.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[02Jun2025 00:58:07.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[02Jun2025 00:58:12.382] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 00:58:12.383] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 715689
+}
+[02Jun2025 00:58:12.383] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[02Jun2025 00:58:12.383] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "BBE%E5S;f 336-22T"
+]
+[02Jun2025 00:58:20.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_09
+[02Jun2025 00:58:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Far Away From Home]

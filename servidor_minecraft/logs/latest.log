@@ -255,3 +255,73 @@
 [02Jun2025 00:48:20.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=44}
 [02Jun2025 00:48:20.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=45}
 [02Jun2025 00:48:20.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=68, z=47}
+[02Jun2025 00:48:22.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=68, z=48}
+[02Jun2025 00:48:22.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=67, z=49} BlockPos{x=52, y=67, z=48}
+[02Jun2025 00:48:22.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=67, z=49} BlockPos{x=53, y=67, z=48}
+[02Jun2025 00:48:23.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=53, y=67, z=49} BlockPos{x=53, y=67, z=47}
+[02Jun2025 00:48:25.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=67, z=50} BlockPos{x=57, y=68, z=48}
+[02Jun2025 00:48:27.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 moved wrongly!
+[02Jun2025 00:48:31.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> eu
+[02Jun2025 00:48:38.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> me escuchas?
+[02Jun2025 00:49:10.418] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 00:49:10.418] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 11958
+}
+[02Jun2025 00:49:10.419] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[02Jun2025 00:49:10.419] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "r!+eL%o(@p0xQ464A+)9=>"
+]
+[02Jun2025 00:49:23.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC drowned
+[02Jun2025 00:49:26.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 drowned
+[02Jun2025 00:49:31.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jajajajajaja
+[02Jun2025 00:49:36.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> que bots
+[02Jun2025 00:49:36.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[02Jun2025 00:49:36.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[02Jun2025 00:49:36.620] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[02Jun2025 00:49:41.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> na mentira
+[02Jun2025 00:49:44.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> nose que paso
+[02Jun2025 00:49:47.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> xd
+[02Jun2025 00:49:55.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> se ahogaron
+[02Jun2025 00:50:03.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> el hdp me dejo a un corazon y se fue
+[02Jun2025 00:50:11.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> lo sigo y me ahoga
+[02Jun2025 00:50:30.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> hagan grupo
+[02Jun2025 00:50:35.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> polfavol}
+[02Jun2025 00:51:02.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> no pedo
+[02Jun2025 00:51:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Beast Patient
+[02Jun2025 00:51:26.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> -
+[02Jun2025 00:51:34.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> y gonza?
+[02Jun2025 00:52:40.751] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 00:52:40.752] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 99
+}
+[02Jun2025 00:52:40.752] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 00:52:40.752] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Pr:=2eDKd2j8X336G%P("
+]
+[02Jun2025 00:53:49.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 moved wrongly!
+[02Jun2025 00:55:47.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> el gonza esta jugando?
+[02Jun2025 00:56:00.640] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 00:56:00.641] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 61583202
+}
+[02Jun2025 00:56:00.641] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[02Jun2025 00:56:00.641] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "*l0B7 .N[{]464.xnJ`R"
+]
+[02Jun2025 00:58:12.382] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 00:58:12.383] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 715689
+}
+[02Jun2025 00:58:12.383] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[02Jun2025 00:58:12.383] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "BBE%E5S;f 336-22T"
+]
+[02Jun2025 00:58:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Far Away From Home]
