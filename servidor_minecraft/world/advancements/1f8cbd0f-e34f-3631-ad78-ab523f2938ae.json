@@ -1744,6 +1744,7 @@
       "minecraft:skeleton": "2025-05-04 04:34:47 +0000",
       "minecraft:ravager": "2025-05-25 05:12:44 +0000",
       "minecraft:hoglin": "2025-05-12 04:37:14 +0000",
+      "minecraft:guardian": "2025-06-02 00:16:52 +0000",
       "minecraft:vindicator": "2025-05-11 02:33:12 +0000",
       "minecraft:magma_cube": "2025-05-10 05:30:22 +0000",
       "minecraft:spider": "2025-05-04 03:53:25 +0000",
@@ -11198,10 +11199,11 @@
     "criteria": {
       "theend": "2025-06-01 05:57:50 +0000",
       "endhighlands": "2025-06-01 06:11:27 +0000",
+      "endbarrens": "2025-06-02 00:23:39 +0000",
       "endmidlands": "2025-06-01 06:11:22 +0000",
       "smallendislands": "2025-06-01 06:12:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:end/dragon_breath": {
     "criteria": {
@@ -11284,6 +11286,48 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2025-06-01 06:32:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-06-02 00:14:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-06-02 00:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-02 00:15:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-06-02 00:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-06-02 00:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-02 00:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-02 00:15:06 +0000"
     },
     "done": true
   },
