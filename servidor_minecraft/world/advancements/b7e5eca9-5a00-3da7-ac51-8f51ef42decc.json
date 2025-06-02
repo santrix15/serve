@@ -11949,15 +11949,39 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_1": "2025-06-02 23:40:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-02 23:28:15 +0000"
+    },
+    "done": true
+  },
   "enderitemod:enderite_scrap": {
     "criteria": {
       "unrefinedenderiteobtained": "2025-06-02 23:13:39 +0000"
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2025-06-02 23:38:54 +0000"
+    },
+    "done": true
+  },
   "enderitemod:obtain_enderite_ingot": {
     "criteria": {
       "obtainenderiteingot": "2025-06-02 23:17:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hat_for_dark_deeds": {
+    "criteria": {
+      "hat_for_dark_deeds_0": "2025-06-02 23:40:15 +0000"
     },
     "done": true
   },

@@ -5795,7 +5795,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "brewingstand": "2025-05-25 02:03:52 +0000"
+      "brewingstand": "2025-05-25 02:03:52 +0000",
+      "gardeningtable": "2025-06-02 23:32:44 +0000"
     },
     "done": false
   },
@@ -7722,6 +7723,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-06-02 22:50:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-06-02 23:34:54 +0000"
     },
     "done": true
   },
