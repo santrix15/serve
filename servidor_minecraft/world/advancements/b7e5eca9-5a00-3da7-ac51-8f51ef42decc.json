@@ -11949,5 +11949,11 @@
     },
     "done": true
   },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2025-06-02 22:35:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
