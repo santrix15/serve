@@ -1894,3 +1894,29 @@
 [
   "J4:PFr=Cq7I464omj7&1Dr"
 ]
+[02Jun2025 04:22:55.059] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 04:22:55.059] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1574
+}
+[02Jun2025 04:22:55.059] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[02Jun2025 04:22:55.059] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "ru)^#+QI3y336L7/"
+]
+[02Jun2025 04:28:26.854] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 04:28:26.854] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 59
+}
+[02Jun2025 04:28:26.854] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 04:28:26.854] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":ME;=J1hP-2[^%464u}["
+]
+[02Jun2025 04:31:43.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[02Jun2025 04:31:43.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[02Jun2025 04:31:43.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[02Jun2025 04:32:28.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
+[02Jun2025 04:32:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[02Jun2025 04:32:28.209] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
