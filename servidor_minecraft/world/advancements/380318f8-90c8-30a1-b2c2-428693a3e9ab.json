@@ -7586,9 +7586,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap/map": {
+  "cataclysm:find_sunken_city": {
     "criteria": {
-      "has_filled_map": "2025-06-02 01:54:54 +0000"
+      "factory": "2025-06-02 01:02:21 +0000"
     },
     "done": true
   },
@@ -7598,19 +7598,85 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-06-02 01:54:42 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2025-06-02 01:03:29 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-06-02 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-02 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-06-02 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-02 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-06-02 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-02 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-06-02 01:03:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope_from_safety_net": {
+    "criteria": {
+      "has_safety_net": "2025-06-02 01:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-02 01:54:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-02 01:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-02 01:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-06-02 01:54:42 +0000"
     },
@@ -7628,63 +7694,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-02 01:03:29 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2025-06-02 01:03:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-06-02 01:54:46 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_sunken_city": {
-    "criteria": {
-      "factory": "2025-06-02 01:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-06-02 01:03:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-02 01:54:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-06-02 01:03:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-06-02 01:03:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-06-02 01:54:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2025-06-02 01:03:29 +0000"
     },
     "done": true
   },
@@ -7694,21 +7706,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "supplementaries:recipes/soap/map": {
     "criteria": {
-      "has_potato": "2025-06-02 01:03:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/rope_from_safety_net": {
-    "criteria": {
-      "has_safety_net": "2025-06-02 01:54:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
-    "criteria": {
-      "has_onion": "2025-06-02 01:03:29 +0000"
+      "has_filled_map": "2025-06-02 01:54:54 +0000"
     },
     "done": true
   },
