@@ -180,3 +180,78 @@
 ]
 [02Jun2025 00:37:00.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Skeleton
 [02Jun2025 00:37:24.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to lobo3224]
+[02Jun2025 00:38:32.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 burned to death
+[02Jun2025 00:38:42.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to lobo3224]
+[02Jun2025 00:39:51.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224's heart ruptured
+[02Jun2025 00:39:54.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported lobo3224 to Santix15]
+[02Jun2025 00:40:19.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was killed by magic
+[02Jun2025 00:40:34.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to lobo3224]
+[02Jun2025 00:41:18.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was killed by magic
+[02Jun2025 00:41:27.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set lobo3224's game mode to Creative Mode]
+[02Jun2025 00:41:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported lobo3224 to Santix15]
+[02Jun2025 00:41:38.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was killed by magic
+[02Jun2025 00:42:08.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Teleported Santix15 to lobo3224]
+[02Jun2025 00:42:19.742] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 00:42:19.742] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 90
+}
+[02Jun2025 00:42:19.742] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 00:42:19.742] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "0\\G>:3U8tR%w~464FT"
+]
+[02Jun2025 00:44:30.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.5.252.102:41517] logged in with entity id 15232 at (31.88467405884988, 67.0, 43.610687924405)
+[02Jun2025 00:44:30.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[02Jun2025 00:44:31.033] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[02Jun2025 00:44:39.366] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[02Jun2025 00:44:39.366] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
+[02Jun2025 00:45:12.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[02Jun2025 00:45:13.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 380318f8-90c8-30a1-b2c2-428693a3e9ab
+[02Jun2025 00:45:13.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab) successfully connected to voice chat
+[02Jun2025 00:46:21.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautiABC[/127.52.80.31:42613] logged in with entity id 15669 at (-1618.7675869948207, 80.0, 1866.4042219376015)
+[02Jun2025 00:46:21.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC joined the game
+[02Jun2025 00:46:21.158] [Server thread/INFO] [Jade/]: Syncing config to lautiABC (71cf154b-6e54-326e-9700-98d60017873d)
+[02Jun2025 00:46:24.324] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautiABC (18)
+[02Jun2025 00:46:24.325] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[02Jun2025 00:46:40.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> lUTI
+[02Jun2025 00:46:42.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[02Jun2025 00:46:43.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[02Jun2025 00:46:43.389] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[02Jun2025 00:46:52.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> hace grupo
+[02Jun2025 00:47:08.172] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 00:47:08.172] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 273211316
+}
+[02Jun2025 00:47:08.172] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[02Jun2025 00:47:08.173] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "i_{:.AXC:$336m}L4"
+]
+[02Jun2025 00:48:06.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=33, y=67, z=45}
+[02Jun2025 00:48:13.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=68, z=44}
+[02Jun2025 00:48:14.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=43}
+[02Jun2025 00:48:14.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=53, y=67, z=44}
+[02Jun2025 00:48:14.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=44}
+[02Jun2025 00:48:14.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=67, z=46}
+[02Jun2025 00:48:15.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=67, z=44}
+[02Jun2025 00:48:15.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=67, z=44}
+[02Jun2025 00:48:15.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=67, z=44}
+[02Jun2025 00:48:16.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=45}
+[02Jun2025 00:48:16.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=50, y=69, z=46}
+[02Jun2025 00:48:16.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=50, y=69, z=47}
+[02Jun2025 00:48:16.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=50, y=69, z=46}
+[02Jun2025 00:48:16.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=67, z=45}
+[02Jun2025 00:48:16.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=67, z=45}
+[02Jun2025 00:48:16.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=67, z=45}
+[02Jun2025 00:48:17.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=48, y=67, z=45}
+[02Jun2025 00:48:17.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=49, y=67, z=45}
+[02Jun2025 00:48:18.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=41}
+[02Jun2025 00:48:18.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=51, y=67, z=44}
+[02Jun2025 00:48:19.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=68, z=45}
+[02Jun2025 00:48:20.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=45}
+[02Jun2025 00:48:20.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=53, y=67, z=43}
+[02Jun2025 00:48:20.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=44}
+[02Jun2025 00:48:20.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=54, y=67, z=45}
+[02Jun2025 00:48:20.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=68, z=47}
