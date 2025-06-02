@@ -865,3 +865,48 @@
   "+4bzfT2D)464>`(:|4"
 ]
 [02Jun2025 01:16:32.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/32988, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[02Jun2025 01:20:17.089] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 01:20:17.090] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13385
+}
+[02Jun2025 01:20:17.090] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[02Jun2025 01:20:17.090] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "YUp\"C)`FR6f336@.`TQ~"
+]
+[02Jun2025 01:20:37.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautiABC[/127.52.80.31:50853] logged in with entity id 33323 at (45.01993234846012, 67.0, 30.145964315404342)
+[02Jun2025 01:20:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC joined the game
+[02Jun2025 01:20:37.336] [Server thread/INFO] [Jade/]: Syncing config to lautiABC (71cf154b-6e54-326e-9700-98d60017873d)
+[02Jun2025 01:20:41.117] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautiABC (18)
+[02Jun2025 01:20:41.117] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[02Jun2025 01:21:07.877] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[02Jun2025 01:21:08.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[02Jun2025 01:21:08.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
+[02Jun2025 01:21:36.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=67, z=34}
+[02Jun2025 01:21:36.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=68, z=34}
+[02Jun2025 01:23:20.372] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 01:23:20.372] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3705
+}
+[02Jun2025 01:23:20.373] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[02Jun2025 01:23:20.373] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "p{/mUDMMG54642,#[bb"
+]
+[02Jun2025 01:25:56.313] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 01:25:56.313] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 448220
+}
+[02Jun2025 01:25:56.314] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[02Jun2025 01:25:56.314] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "lYrB 5z\\75336^5~E&Q)1"
+]
+[02Jun2025 01:29:23.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC fell from a high place
+[02Jun2025 01:29:37.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=49, y=67, z=33}
+[02Jun2025 01:29:38.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=69, z=30}
+[02Jun2025 01:29:39.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=49, y=67, z=33}
+[02Jun2025 01:29:39.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=68, z=30}
