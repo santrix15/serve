@@ -10719,3 +10719,139 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [02Jun2025 22:54:10.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jun2025 22:54:33.910] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=91232204-cc03-4014-b5d9-3b73f7bba367}
 [02Jun2025 22:54:37.252] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=null}
+[02Jun2025 22:54:55.590] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 22:54:55.591] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 40
+}
+[02Jun2025 22:54:55.591] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 22:54:55.592] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "{u| J?Dc?jIf@[ft336gyTV"
+]
+[02Jun2025 22:55:06.125] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=c51f3fca-2a03-411c-9187-cf9a1412e918}
+[02Jun2025 22:55:20.356] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 22:55:20.357] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 106
+}
+[02Jun2025 22:55:20.357] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 22:55:20.357] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "4gDf+#W8N464O_UP}[uR"
+]
+[02Jun2025 22:55:30.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Enderman
+[02Jun2025 22:55:32.733] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748904932705
+[02Jun2025 22:56:04.757] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of lobo3224: {disabled=false, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=c51f3fca-2a03-411c-9187-cf9a1412e918}
+[02Jun2025 22:56:09.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> SANTI
+[02Jun2025 22:56:20.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-296, y=12, z=415} BlockPos{x=-297, y=12, z=415}
+[02Jun2025 22:56:28.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> poque mierda entraste y dijiste GAYS
+[02Jun2025 22:56:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> yo no fui
+[02Jun2025 22:57:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> mentira
+[02Jun2025 22:57:02.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> para mi fue lobo
+[02Jun2025 22:57:06.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> el gonza no suena asi
+[02Jun2025 22:57:09.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> suena mas nigga
+[02Jun2025 22:57:14.972] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 22:57:14.973] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2454
+}
+[02Jun2025 22:57:14.973] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[02Jun2025 22:57:14.973] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "sow'%&}%>^(?(f@vb3209/#[1C"
+]
+[02Jun2025 22:57:32.258] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=null}
+[02Jun2025 22:57:33.482] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_nether] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[02Jun2025 22:57:33.782] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[02Jun2025 22:57:33.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_16
+[02Jun2025 22:57:33.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_4
+[02Jun2025 22:57:33.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_10
+[02Jun2025 22:57:33.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_14
+[02Jun2025 22:57:33.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_22
+[02Jun2025 22:57:33.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_charged_creeper_0
+[02Jun2025 22:57:33.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_12
+[02Jun2025 22:57:33.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_skeleton_ranged_0
+[02Jun2025 22:57:34.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_15
+[02Jun2025 22:57:34.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_guardian_3
+[02Jun2025 22:57:34.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_1
+[02Jun2025 22:57:34.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_skeleton_melee_1
+[02Jun2025 22:57:34.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_3
+[02Jun2025 22:57:34.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_7
+[02Jun2025 22:57:34.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_5
+[02Jun2025 22:57:34.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_11
+[02Jun2025 22:57:34.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_9
+[02Jun2025 22:57:34.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_23
+[02Jun2025 22:57:34.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_25
+[02Jun2025 22:57:34.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_21
+[02Jun2025 22:57:34.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_19
+[02Jun2025 22:57:34.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_17
+[02Jun2025 22:57:34.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_2
+[02Jun2025 22:57:34.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_8
+[02Jun2025 22:57:34.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_6
+[02Jun2025 22:57:34.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_0
+[02Jun2025 22:57:34.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_18
+[02Jun2025 22:57:34.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_24
+[02Jun2025 22:57:34.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_26
+[02Jun2025 22:57:34.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_20
+[02Jun2025 22:57:34.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_phantom_0
+[02Jun2025 22:57:34.269] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748905053822
+[02Jun2025 22:57:34.665] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=91232204-cc03-4014-b5d9-3b73f7bba367}
+[02Jun2025 22:57:38.275] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=null}
+[02Jun2025 22:57:43.302] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=c51f3fca-2a03-411c-9187-cf9a1412e918}
+[02Jun2025 22:57:53.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[02Jun2025 22:57:53.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[02Jun2025 22:57:53.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[02Jun2025 22:57:53.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[02Jun2025 22:57:53.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_mage
+[02Jun2025 22:57:53.549] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[02Jun2025 22:57:53.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[02Jun2025 22:57:53.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[02Jun2025 22:57:53.877] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748905073877
+[02Jun2025 22:57:58.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jajaja
+[02Jun2025 22:58:03.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> XD
+[02Jun2025 22:58:21.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Enderman
+[02Jun2025 22:58:23.548] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1748905103534
+[02Jun2025 22:59:10.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 22:59:10.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:01:04.927] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 23:01:04.928] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6342
+}
+[02Jun2025 23:01:04.928] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[02Jun2025 23:01:04.928] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">My ~oNllz336#27L["
+]
+[02Jun2025 23:01:37.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 has made the advancement [Super Creeps]
+[02Jun2025 23:02:23.807] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 23:02:23.807] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1206623
+}
+[02Jun2025 23:02:23.808] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[02Jun2025 23:02:23.808] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Gxpo\",|k@Wd'HjAq464gyTV"
+]
+[02Jun2025 23:02:36.323] [Worker-Main-34/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[02Jun2025 23:02:37.233] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 23:02:37.233] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 76
+}
+[02Jun2025 23:02:37.233] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 23:02:37.234] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "B/W}_b-WbmY+s320!dRg"
+]
+[02Jun2025 23:02:47.664] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[02Jun2025 23:04:03.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santix15: Set the weather to clear]
+[02Jun2025 23:04:10.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 23:04:10.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 23:05:00.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[02Jun2025 23:05:00.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_2
+[02Jun2025 23:05:00.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[02Jun2025 23:05:00.136] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_4
+[02Jun2025 23:05:00.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_1
