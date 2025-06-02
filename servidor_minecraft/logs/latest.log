@@ -910,3 +910,39 @@
 [02Jun2025 01:29:38.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=69, z=30}
 [02Jun2025 01:29:39.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=49, y=67, z=33}
 [02Jun2025 01:29:39.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=52, y=68, z=30}
+[02Jun2025 01:29:45.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=55, y=68, z=33}
+[02Jun2025 01:29:48.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=56, y=68, z=31}
+[02Jun2025 01:29:49.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=69, z=34}
+[02Jun2025 01:29:49.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=69, z=34}
+[02Jun2025 01:30:13.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved wrongly! 0.32176467564580946
+[02Jun2025 01:30:13.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved wrongly! 0.32985008447261066
+[02Jun2025 01:30:13.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved wrongly! 0.3609095596802092
+[02Jun2025 01:30:13.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved wrongly! 0.40344081630478
+[02Jun2025 01:30:13.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved wrongly! 0.5794727061535241
+[02Jun2025 01:30:13.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved wrongly! 1.1754083341203163
+[02Jun2025 01:30:14.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved wrongly! 1.2920934283487924
+[02Jun2025 01:32:54.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[02Jun2025 01:32:54.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[02Jun2025 01:32:54.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC was slain by Gravetender Hollow
+[02Jun2025 01:32:54.824] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[02Jun2025 01:37:00.260] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 01:37:00.261] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 5
+}
+[02Jun2025 01:37:00.261] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 01:37:00.261] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "y'5%KMjE*D^336'\\Y;em"
+]
+[02Jun2025 01:37:01.422] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jun2025 01:37:01.422] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 83
+}
+[02Jun2025 01:37:01.422] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[02Jun2025 01:37:01.422] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~Ff$,D[vA!@&XG464q0j/49O"
+]
+[02Jun2025 01:38:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> como va tu aventura kevin?
