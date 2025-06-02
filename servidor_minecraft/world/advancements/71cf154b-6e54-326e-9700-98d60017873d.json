@@ -5109,6 +5109,9 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "fletchingtable": "2025-06-02 21:54:26 +0000",
+      "blastfurnace": "2025-06-02 21:55:41 +0000",
+      "lectern": "2025-06-02 21:54:25 +0000",
       "stonecutter": "2025-05-31 00:59:30 +0000"
     },
     "done": false
