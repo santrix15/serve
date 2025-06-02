@@ -5676,7 +5676,8 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "squireofthe_dark_lord_4": "2025-05-04 04:51:08 +0000"
+      "squireofthe_dark_lord_4": "2025-05-04 04:51:08 +0000",
+      "squireofthe_dark_lord_0": "2025-06-02 04:03:37 +0000"
     },
     "done": false
   },
@@ -11553,6 +11554,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-06-02 03:58:36 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/nether_bricks/nether_brick_pillar": {
     "criteria": {
       "has_item": "2025-06-02 03:35:27 +0000"
@@ -11568,6 +11575,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-02 03:35:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:one_explosion_is_good_two_is_better": {
+    "criteria": {
+      "one_explosion_is_good_two_is_better_0": "2025-06-02 04:04:54 +0000"
     },
     "done": true
   },
@@ -11619,6 +11632,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-06-02 04:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_item": "2025-06-02 03:35:27 +0000"
@@ -11640,6 +11659,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-06-02 03:35:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-06-02 04:03:37 +0000"
     },
     "done": true
   },
