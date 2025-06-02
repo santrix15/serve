@@ -7713,9 +7713,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-06-02 23:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-06-02 22:50:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-02 23:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-06-02 23:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-02 23:06:18 +0000"
     },
     "done": true
   },
