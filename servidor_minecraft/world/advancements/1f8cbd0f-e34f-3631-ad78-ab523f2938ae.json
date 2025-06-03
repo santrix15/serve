@@ -11687,5 +11687,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-06-03 00:02:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
