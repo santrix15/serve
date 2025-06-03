@@ -10472,6 +10472,7 @@
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_1": "2025-05-26 23:26:10 +0000",
+      "charm_collector_0": "2025-06-03 00:40:24 +0000",
       "charm_collector_4": "2025-06-02 04:23:39 +0000"
     },
     "done": false
@@ -11683,6 +11684,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
       "requirement": "2025-06-02 04:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-03 00:37:06 +0000"
     },
     "done": true
   },
