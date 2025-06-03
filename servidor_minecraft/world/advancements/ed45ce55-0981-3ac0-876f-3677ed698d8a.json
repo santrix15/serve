@@ -6612,6 +6612,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-01 02:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-01 02:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-01 02:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-01 02:46:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/orange_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-01 03:24:00 +0000"
@@ -6660,21 +6684,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-06-01 02:46:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/orange_bath": {
     "criteria": {
       "has_orange_dye": "2025-06-01 03:24:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
-    "criteria": {
-      "has_salmon": "2025-06-01 02:46:20 +0000"
     },
     "done": true
   },
@@ -6714,12 +6726,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-06-01 02:46:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/orange_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-01 03:24:00 +0000"
@@ -6756,12 +6762,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-06-01 02:46:20 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/orange_trampoline_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-01 03:24:00 +0000"
@@ -6789,6 +6789,12 @@
   "refurbished_furniture:recipes/decorations/orange_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-06-01 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_abandoned_crypt": {
+    "criteria": {
+      "abandoned_crypt": "2025-06-03 01:06:36 +0000"
     },
     "done": true
   },
