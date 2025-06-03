@@ -223,6 +223,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "taiga": "2025-06-03 00:06:07 +0000",
       "plains": "2025-05-03 00:38:39 +0000"
     },
     "done": false
@@ -5795,6 +5796,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "huntingpost": "2025-06-03 00:08:33 +0000",
+      "oceanographytable": "2025-06-03 00:07:07 +0000",
       "brewingstand": "2025-05-25 02:03:52 +0000",
       "gardeningtable": "2025-06-02 23:32:44 +0000"
     },
@@ -7714,6 +7717,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-03 00:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-06-03 00:02:17 +0000"
@@ -7723,6 +7732,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-06-02 23:06:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-03 00:07:12 +0000"
     },
     "done": true
   },
@@ -7750,9 +7765,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-06-03 00:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-06-02 23:06:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 00:07:12 +0000"
     },
     "done": true
   },
@@ -7765,6 +7792,18 @@
   "dungeons_arise:find_infested_temple": {
     "criteria": {
       "location0": "2025-06-02 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-06-03 00:07:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-06-03 00:07:14 +0000"
     },
     "done": true
   },
