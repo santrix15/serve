@@ -7801,6 +7801,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-06-03 00:16:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slice_map": {
     "criteria": {
       "has_map": "2025-06-03 00:07:14 +0000"
