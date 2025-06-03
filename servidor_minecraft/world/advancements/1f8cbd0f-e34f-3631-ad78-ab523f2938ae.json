@@ -71,6 +71,7 @@
       "minecraft:old_growth_pine_taiga": "2025-05-11 01:20:06 +0000",
       "minecraft:taiga": "2025-05-11 01:19:51 +0000",
       "minecraft:deep_ocean": "2025-05-11 02:25:19 +0000",
+      "minecraft:frozen_river": "2025-06-03 00:27:39 +0000",
       "minecraft:cherry_grove": "2025-05-03 00:51:52 +0000",
       "minecraft:sunflower_plains": "2025-05-03 01:27:47 +0000",
       "minecraft:birch_forest": "2025-05-11 00:51:22 +0000",
@@ -86,6 +87,7 @@
       "minecraft:stony_shore": "2025-05-03 01:18:51 +0000",
       "minecraft:snowy_plains": "2025-06-03 00:17:54 +0000",
       "minecraft:dripstone_caves": "2025-05-08 00:59:09 +0000",
+      "minecraft:snowy_taiga": "2025-06-03 00:30:48 +0000",
       "minecraft:grove": "2025-05-03 01:17:32 +0000",
       "minecraft:swamp": "2025-05-11 06:37:01 +0000",
       "minecraft:jagged_peaks": "2025-05-31 00:06:49 +0000",
@@ -97,6 +99,7 @@
       "minecraft:deep_frozen_ocean": "2025-05-11 05:17:55 +0000",
       "minecraft:ocean": "2025-05-03 01:19:49 +0000",
       "minecraft:jungle": "2025-05-06 00:44:14 +0000",
+      "minecraft:snowy_beach": "2025-06-03 00:27:11 +0000",
       "minecraft:windswept_savanna": "2025-05-11 04:11:18 +0000",
       "minecraft:flower_forest": "2025-05-03 04:34:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-11 00:51:31 +0000",
@@ -1574,6 +1577,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-03 00:29:06 +0000",
       "cooked_beef": "2025-05-03 05:15:58 +0000",
       "baked_potato": "2025-05-04 05:01:47 +0000",
       "apple": "2025-05-03 01:06:59 +0000",
@@ -11703,6 +11707,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-03 00:06:26 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-03 00:31:43 +0000"
     },
     "done": true
   },

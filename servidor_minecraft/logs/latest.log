@@ -1357,3 +1357,57 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [03Jun2025 00:28:35.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved too quickly! -6.020210896563185,0.0,7.986349316915948
 [03Jun2025 00:28:35.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved too quickly! 8.683577820678693,3.975575911786308,3.243126242240237
 [03Jun2025 00:28:35.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7072ms or 141 ticks behind
+[03Jun2025 00:28:42.093] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jun2025 00:29:10.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 2.3426501299254596
+[03Jun2025 00:29:10.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 2.34422267838454
+[03Jun2025 00:29:10.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 2.3463983400661164
+[03Jun2025 00:29:10.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 2.3490764345606294
+[03Jun2025 00:29:10.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 2.352169790328844
+[03Jun2025 00:29:10.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 2.3556030075851595
+[03Jun2025 00:29:10.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 2.3593109421799454
+[03Jun2025 00:29:10.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 2.363237382703119
+[03Jun2025 00:29:10.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 2.367333896256241
+[03Jun2025 00:29:29.658] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/147366, l='ServerLevel[world]', x=-5163.50, y=39.00, z=1053.50]
+[03Jun2025 00:29:30.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 0.33690077056598966
+[03Jun2025 00:29:30.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 0.43669467377367255
+[03Jun2025 00:29:30.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 0.5352621590682247
+[03Jun2025 00:29:30.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of lobo3224) moved wrongly! 0.6324123354170297
+[03Jun2025 00:29:45.745] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Jun2025 00:29:45.745] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 113
+}
+[03Jun2025 00:29:45.745] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03Jun2025 00:29:45.745] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "j#g'|m#~6m7s'336H@"
+]
+[03Jun2025 00:31:10.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Hunt and Gather]
+[03Jun2025 00:31:16.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[03Jun2025 00:31:43.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has completed the challenge [Rude Awakening]
+[03Jun2025 00:33:00.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC drowned
+[03Jun2025 00:33:10.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/152063, l='ServerLevel[world]', x=-5148.50, y=39.00, z=1055.50]
+[03Jun2025 00:33:42.494] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Jun2025 00:33:42.494] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 8501
+}
+[03Jun2025 00:33:42.494] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[03Jun2025 00:33:42.495] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "B<xDPy*iqC|<n[320?/\"N"
+]
+[03Jun2025 00:36:15.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC drowned
+[03Jun2025 00:36:16.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> -
+[03Jun2025 00:37:06.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Local Brewery]
+[03Jun2025 00:38:22.446] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[03Jun2025 00:39:03.407] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Jun2025 00:39:03.407] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 78
+}
+[03Jun2025 00:39:03.407] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[03Jun2025 00:39:03.407] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~-.O~O|]LF<320bo0s"
+]

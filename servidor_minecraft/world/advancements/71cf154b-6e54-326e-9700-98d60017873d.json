@@ -6494,6 +6494,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-06-03 00:31:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-06-02 22:58:44 +0000"
@@ -6563,6 +6569,12 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-02 22:58:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-06-03 00:31:10 +0000"
     },
     "done": true
   },
@@ -6689,6 +6701,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-06-02 23:13:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-06-03 00:31:16 +0000"
     },
     "done": true
   },
@@ -6875,6 +6893,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-06-02 22:22:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-06-03 00:31:10 +0000"
     },
     "done": true
   },
