@@ -7028,6 +7028,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-04 23:23:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-06-04 23:12:56 +0000"
@@ -7037,6 +7043,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-04 23:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-04 23:23:34 +0000"
     },
     "done": true
   },
