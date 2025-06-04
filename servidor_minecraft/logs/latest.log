@@ -2604,3 +2604,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "w(rVsEs9320HK<7"
 ]
+[04Jun2025 22:48:11.772] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 22:48:11.773] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 66
+}
+[04Jun2025 22:48:11.773] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[04Jun2025 22:48:11.773] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "H*!LvRN%Nx464<kjg<m"
+]
+[04Jun2025 22:49:20.424] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 22:49:20.425] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1691910
+}
+[04Jun2025 22:49:20.425] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[04Jun2025 22:49:20.425] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "(WbR34l5o*K320,>X4{"
+]
+[04Jun2025 22:54:42.945] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 22:54:42.946] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 12360
+}
+[04Jun2025 22:54:42.946] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[04Jun2025 22:54:42.946] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "R9ny{^XYM320+e#^$_2"
+]
+[04Jun2025 22:55:02.101] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 22:55:02.101] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 14984
+}
+[04Jun2025 22:55:02.102] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[04Jun2025 22:55:02.102] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ".eU=)by,~mHI54641!$"
+]
+[04Jun2025 22:56:12.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lautiABC[/127.52.80.31:42809] logged in with entity id 79 at (-5112.920789801637, 61.0, 970.2912500853424)
+[04Jun2025 22:56:12.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC joined the game
+[04Jun2025 22:56:12.882] [Server thread/INFO] [Jade/]: Syncing config to lautiABC (71cf154b-6e54-326e-9700-98d60017873d)
+[04Jun2025 22:56:18.492] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lautiABC (18)
+[04Jun2025 22:56:18.494] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lautiABC
+[04Jun2025 22:56:18.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6147ms or 122 ticks behind
+[04Jun2025 22:56:38.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 71cf154b-6e54-326e-9700-98d60017873d
+[04Jun2025 22:56:39.417] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 71cf154b-6e54-326e-9700-98d60017873d
+[04Jun2025 22:56:39.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lautiABC (71cf154b-6e54-326e-9700-98d60017873d) successfully connected to voice chat
