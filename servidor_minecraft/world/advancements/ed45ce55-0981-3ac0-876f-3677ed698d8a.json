@@ -84,6 +84,7 @@
       "minecraft:lukewarm_ocean": "2025-05-24 00:08:02 +0000",
       "minecraft:stony_shore": "2025-05-24 00:07:55 +0000",
       "minecraft:grove": "2025-05-30 23:36:58 +0000",
+      "minecraft:jagged_peaks": "2025-06-05 22:55:48 +0000",
       "minecraft:cold_ocean": "2025-05-31 02:40:05 +0000",
       "minecraft:forest": "2025-05-03 02:07:38 +0000",
       "minecraft:lush_caves": "2025-05-24 03:00:49 +0000",
@@ -6866,6 +6867,48 @@
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2025-06-05 00:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-05 23:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-05 22:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-05 23:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-05 23:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-05 23:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-05 22:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-05 22:57:21 +0000"
     },
     "done": true
   },
