@@ -88,10 +88,12 @@
       "minecraft:forest": "2025-05-03 02:07:38 +0000",
       "minecraft:lush_caves": "2025-05-24 03:00:49 +0000",
       "minecraft:deep_cold_ocean": "2025-05-31 02:40:30 +0000",
+      "minecraft:desert": "2025-06-05 00:44:19 +0000",
       "minecraft:jungle": "2025-05-06 21:05:56 +0000",
       "minecraft:ocean": "2025-05-24 00:33:51 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-31 02:59:38 +0000",
       "minecraft:windswept_savanna": "2025-06-01 00:29:30 +0000",
+      "minecraft:warm_ocean": "2025-06-05 00:42:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-05 00:36:33 +0000",
       "minecraft:flower_forest": "2025-05-24 00:47:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-24 00:36:00 +0000",
@@ -163,7 +165,8 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
-      "plains": "2025-05-03 02:12:01 +0000"
+      "plains": "2025-05-03 02:12:01 +0000",
+      "savanna": "2025-06-05 00:57:50 +0000"
     },
     "done": false
   },
@@ -6839,6 +6842,12 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-06-04 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-06-05 00:44:36 +0000"
     },
     "done": true
   },

@@ -319,3 +319,176 @@
 [
   "YQ,afKm<G{]]@nC464x^IS("
 ]
+[05Jun2025 00:42:23.878] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:42:23.879] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 61
+}
+[05Jun2025 00:42:23.879] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 00:42:23.879] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "R(c`|xV320W!2.+Gl"
+]
+[05Jun2025 00:42:55.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/50136, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[05Jun2025 00:44:01.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -8.146386141437688,0.0,-6.465008282063373
+[05Jun2025 00:44:01.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -8.459708685339137,0.0,-6.713662446758118
+[05Jun2025 00:44:01.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -8.773031229240587,0.0,-6.962316611452863
+[05Jun2025 00:44:01.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -9.086353773142037,0.0,-7.210970776147608
+[05Jun2025 00:44:01.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -9.399676317043486,0.0,-7.459624940842353
+[05Jun2025 00:44:01.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -9.712998860944936,0.0,-7.708279105537098
+[05Jun2025 00:44:01.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -10.026321404846385,0.0,-7.956933270231843
+[05Jun2025 00:44:01.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -10.339643948747835,0.0,-8.205587434926592
+[05Jun2025 00:44:01.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -10.652966492649284,0.0,-8.45424159962134
+[05Jun2025 00:44:01.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -10.966289036550734,0.0,-8.70289576431609
+[05Jun2025 00:44:01.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -11.279611580452183,0.0,-8.951549929010838
+[05Jun2025 00:44:01.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -11.592934124353633,0.0,-9.200204093705587
+[05Jun2025 00:44:01.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -11.906256668255082,0.0,-9.448858258400335
+[05Jun2025 00:44:01.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -12.219579212156532,0.0,-9.697512423095084
+[05Jun2025 00:44:01.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -12.532901756057981,0.0,-9.946166587789833
+[05Jun2025 00:44:01.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -12.846224299959431,0.0,-10.194820752484581
+[05Jun2025 00:44:01.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -13.15954684386088,0.0,-10.44347491717933
+[05Jun2025 00:44:01.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -13.47286938776233,0.0,-10.692129081874079
+[05Jun2025 00:44:01.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -13.78619193166378,0.0,-10.940783246568827
+[05Jun2025 00:44:01.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -14.099514475565229,0.0,-11.189437411263576
+[05Jun2025 00:44:01.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -14.412837019466679,0.0,-11.438091575958325
+[05Jun2025 00:44:01.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -14.726159563368128,0.0,-11.686745740653073
+[05Jun2025 00:44:01.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -15.039482107269578,0.0,-11.935399905347822
+[05Jun2025 00:44:01.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -15.352804651171027,0.0,-12.18405407004257
+[05Jun2025 00:44:01.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -15.666127195072477,0.0,-12.43270823473732
+[05Jun2025 00:44:01.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -15.979449738973926,0.0,-12.681362399432068
+[05Jun2025 00:44:01.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -16.292772282875376,0.0,-12.930016564126817
+[05Jun2025 00:44:01.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -16.606094826776825,0.0,-13.178670728821565
+[05Jun2025 00:44:01.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -16.919417370678275,0.0,-13.427324893516314
+[05Jun2025 00:44:01.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -17.232739914579724,0.0,-13.675979058211063
+[05Jun2025 00:44:01.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15406ms or 308 ticks behind
+[05Jun2025 00:44:02.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -9.712998860944936,0.0,-7.7082791055371835
+[05Jun2025 00:44:02.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -9.994989142986014,0.0,-7.93206784783408
+[05Jun2025 00:44:02.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -10.248780390100364,0.0,-8.133477710565746
+[05Jun2025 00:44:02.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -10.477192506452411,0.0,-8.31474658222226
+[05Jun2025 00:44:02.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -10.682763405723563,0.0,-8.477888562391332
+[05Jun2025 00:44:02.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -10.867777210166423,0.0,-8.624716340653894
+[05Jun2025 00:44:02.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved too quickly! -11.034289629753403,0.0,-8.756861337589552
+[05Jun2025 00:44:36.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [You Are A Pirate]
+[05Jun2025 00:44:52.395] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:44:52.399] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 224622622
+}
+[05Jun2025 00:44:52.399] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[05Jun2025 00:44:52.399] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Krt4K\\0$'IH\"[464 ~2\"ATrq"
+]
+[05Jun2025 00:45:41.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Beast Patient
+[05Jun2025 00:47:46.245] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:47:46.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 4301
+}
+[05Jun2025 00:47:46.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 00:47:46.246] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "l3!Ts|u c`u:z?320d8\"@z"
+]
+[05Jun2025 00:50:18.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved wrongly! 0.2696864441077196
+[05Jun2025 00:50:18.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lautiABC) moved wrongly! 0.2921404031021666
+[05Jun2025 00:51:43.855] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:51:43.856] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1089284
+}
+[05Jun2025 00:51:43.856] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[05Jun2025 00:51:43.856] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "IL=@nW2:/464DL9B:M"
+]
+[05Jun2025 00:53:09.521] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:53:09.522] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3614
+}
+[05Jun2025 00:53:09.522] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 00:53:09.522] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "{2@dlYWS}8:0320GVGu<&*_"
+]
+[05Jun2025 00:54:00.389] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[05Jun2025 00:54:00.390] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[05Jun2025 00:54:00.390] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[05Jun2025 00:54:00.390] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[05Jun2025 00:54:00.394] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[05Jun2025 00:54:00.394] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[05Jun2025 00:54:00.394] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[05Jun2025 00:54:01.101] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[05Jun2025 00:54:01.101] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[05Jun2025 00:54:01.101] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[05Jun2025 00:54:01.101] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[05Jun2025 00:54:01.110] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[05Jun2025 00:54:49.933] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[05Jun2025 00:54:49.933] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[05Jun2025 00:54:49.934] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[05Jun2025 00:54:49.934] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[05Jun2025 00:55:06.686] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[05Jun2025 00:55:06.686] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[05Jun2025 00:55:06.687] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[05Jun2025 00:55:06.687] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[05Jun2025 00:55:08.302] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[05Jun2025 00:55:08.303] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[05Jun2025 00:55:08.304] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[05Jun2025 00:55:08.304] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[05Jun2025 00:55:08.317] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[05Jun2025 00:55:08.320] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[05Jun2025 00:55:08.321] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[05Jun2025 00:55:08.322] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[05Jun2025 00:55:08.338] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[05Jun2025 00:55:08.339] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[05Jun2025 00:55:08.340] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[05Jun2025 00:55:08.340] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[05Jun2025 00:55:08.354] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[05Jun2025 00:55:08.354] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[05Jun2025 00:55:08.354] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[05Jun2025 00:55:08.355] [Worker-Main-87/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[05Jun2025 00:55:08.365] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[05Jun2025 00:55:08.366] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[05Jun2025 00:55:08.366] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[05Jun2025 00:55:08.653] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[05Jun2025 00:55:08.655] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[05Jun2025 00:55:08.655] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[05Jun2025 00:55:08.656] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[05Jun2025 00:55:08.669] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[05Jun2025 00:55:08.669] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[05Jun2025 00:55:08.670] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[05Jun2025 00:55:08.670] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[05Jun2025 00:55:08.682] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[05Jun2025 00:55:08.683] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[05Jun2025 00:55:08.683] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[05Jun2025 00:55:08.684] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[05Jun2025 00:55:08.684] [Worker-Main-61/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[05Jun2025 00:55:10.832] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[05Jun2025 00:55:10.832] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[05Jun2025 00:55:10.832] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[05Jun2025 00:55:10.833] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[05Jun2025 00:56:27.841] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[05Jun2025 00:57:16.546] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[05Jun2025 00:57:16.564] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[05Jun2025 00:57:16.564] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[05Jun2025 00:57:16.565] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[05Jun2025 00:57:16.574] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[05Jun2025 00:57:16.574] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[05Jun2025 00:57:16.575] [Worker-Main-71/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[05Jun2025 00:57:18.750] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[05Jun2025 00:57:18.750] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[05Jun2025 00:57:18.751] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[05Jun2025 00:57:18.765] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[05Jun2025 00:57:18.765] [Worker-Main-66/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[05Jun2025 00:57:40.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 fell from a high place
+[05Jun2025 00:58:31.926] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:58:31.926] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 40
+}
+[05Jun2025 00:58:31.926] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 00:58:31.927] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Q)'4krF)K/>1320IwN4)5z"
+]

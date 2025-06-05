@@ -12019,9 +12019,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-06-05 00:58:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_oak_sign": "2025-06-04 23:49:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-06-05 00:58:07 +0000"
     },
     "done": true
   },
