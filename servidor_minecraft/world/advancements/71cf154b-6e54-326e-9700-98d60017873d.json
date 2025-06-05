@@ -7111,5 +7111,17 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-06-05 23:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-05 23:18:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
