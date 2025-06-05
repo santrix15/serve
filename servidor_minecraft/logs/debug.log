@@ -11685,3 +11685,309 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "L0 ~RY320D.hJT"
 ]
+[05Jun2025 01:12:54.385] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:12:54.386] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 127
+}
+[05Jun2025 01:12:54.386] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:12:54.386] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "[E:&rpbR.T_L464S@-\\"
+]
+[05Jun2025 01:13:00.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_oceanographer
+[05Jun2025 01:14:08.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:14:08.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:14:39.257] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:14:39.257] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 108
+}
+[05Jun2025 01:14:39.257] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:14:39.258] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Qvv^JGS2-meA320DL9B:M"
+]
+[05Jun2025 01:15:47.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
+[05Jun2025 01:16:36.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[05Jun2025 01:16:36.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[05Jun2025 01:16:36.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[05Jun2025 01:16:36.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[05Jun2025 01:16:36.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[05Jun2025 01:16:36.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[05Jun2025 01:16:36.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[05Jun2025 01:16:36.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[05Jun2025 01:16:36.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[05Jun2025 01:16:36.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[05Jun2025 01:16:36.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[05Jun2025 01:16:36.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[05Jun2025 01:16:36.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[05Jun2025 01:16:36.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[05Jun2025 01:16:36.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[05Jun2025 01:16:36.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[05Jun2025 01:16:36.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[05Jun2025 01:16:36.881] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[05Jun2025 01:16:36.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[05Jun2025 01:16:36.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_1
+[05Jun2025 01:16:36.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[05Jun2025 01:16:36.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
+[05Jun2025 01:16:36.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[05Jun2025 01:16:36.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[05Jun2025 01:16:36.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[05Jun2025 01:16:36.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[05Jun2025 01:16:36.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[05Jun2025 01:16:36.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[05Jun2025 01:16:36.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[05Jun2025 01:16:36.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[05Jun2025 01:16:36.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[05Jun2025 01:16:36.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[05Jun2025 01:16:36.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[05Jun2025 01:16:36.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[05Jun2025 01:16:36.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[05Jun2025 01:16:36.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[05Jun2025 01:16:36.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[05Jun2025 01:16:36.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[05Jun2025 01:16:36.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[05Jun2025 01:16:36.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[05Jun2025 01:16:36.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[05Jun2025 01:16:36.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[05Jun2025 01:16:36.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[05Jun2025 01:16:51.060] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_brown_mushroom_stem_01
+[05Jun2025 01:16:57.291] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_01
+[05Jun2025 01:17:35.006] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_09
+[05Jun2025 01:18:14.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[05Jun2025 01:18:29.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_engineer
+[05Jun2025 01:18:52.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4993ms or 99 ticks behind
+[05Jun2025 01:18:55.633] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[05Jun2025 01:19:12.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:19:13.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:19:19.637] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[05Jun2025 01:19:19.672] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[05Jun2025 01:19:22.290] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6898, y=-12, z=35}
+[05Jun2025 01:19:22.291] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6903, y=-12, z=29}
+[05Jun2025 01:19:22.292] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6897, y=-26, z=19}
+[05Jun2025 01:19:22.315] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6897, y=-26, z=19}
+[05Jun2025 01:19:28.139] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6884, y=-12, z=43}
+[05Jun2025 01:19:28.140] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6903, y=-12, z=42}
+[05Jun2025 01:19:28.147] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6884, y=-12, z=43}
+[05Jun2025 01:19:28.147] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6903, y=-12, z=42}
+[05Jun2025 01:19:28.148] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6888, y=-12, z=43}
+[05Jun2025 01:19:28.148] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6882, y=-21, z=59}
+[05Jun2025 01:19:28.155] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6903, y=-12, z=42}
+[05Jun2025 01:19:28.156] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6898, y=-12, z=35}
+[05Jun2025 01:19:28.156] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6888, y=-12, z=43}
+[05Jun2025 01:19:28.157] [Worker-Main-88/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6882, y=-21, z=59}
+[05Jun2025 01:19:30.895] [Worker-Main-71/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6892, y=1, z=74}
+[05Jun2025 01:19:30.918] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6822, y=-12, z=48}
+[05Jun2025 01:19:31.227] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6892, y=1, z=74}
+[05Jun2025 01:19:31.228] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6882, y=-21, z=59}
+[05Jun2025 01:19:31.232] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6880, y=-12, z=78}
+[05Jun2025 01:19:31.232] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6891, y=1, z=61}
+[05Jun2025 01:19:31.232] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6885, y=-26, z=70}
+[05Jun2025 01:19:31.232] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6884, y=-12, z=43}
+[05Jun2025 01:19:31.233] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6886, y=1, z=58}
+[05Jun2025 01:19:31.233] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6892, y=1, z=74}
+[05Jun2025 01:19:31.234] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6885, y=-12, z=61}
+[05Jun2025 01:19:31.234] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6881, y=-19, z=51}
+[05Jun2025 01:19:31.234] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6882, y=-21, z=59}
+[05Jun2025 01:19:31.239] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6880, y=-12, z=78}
+[05Jun2025 01:19:31.239] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6879, y=-12, z=61}
+[05Jun2025 01:19:31.239] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6884, y=-12, z=43}
+[05Jun2025 01:19:31.239] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6886, y=1, z=58}
+[05Jun2025 01:19:31.240] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6879, y=-12, z=49}
+[05Jun2025 01:19:31.241] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6881, y=-19, z=51}
+[05Jun2025 01:19:31.241] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6876, y=-19, z=52}
+[05Jun2025 01:19:31.247] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6832, y=-12, z=65}
+[05Jun2025 01:19:31.610] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6831, y=-12, z=50}
+[05Jun2025 01:19:31.610] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6832, y=-12, z=65}
+[05Jun2025 01:19:31.610] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6810, y=-12, z=49}
+[05Jun2025 01:19:31.611] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6822, y=-12, z=48}
+[05Jun2025 01:19:31.611] [Worker-Main-89/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6811, y=-12, z=58}
+[05Jun2025 01:19:32.869] [Worker-Main-71/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6810, y=-12, z=49}
+[05Jun2025 01:19:32.869] [Worker-Main-71/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6802, y=-25, z=51}
+[05Jun2025 01:19:32.870] [Worker-Main-71/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6822, y=-12, z=48}
+[05Jun2025 01:19:32.870] [Worker-Main-71/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6811, y=-12, z=58}
+[05Jun2025 01:19:32.870] [Worker-Main-71/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6801, y=-25, z=49}
+[05Jun2025 01:19:33.397] [Worker-Main-90/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6822, y=-12, z=48}
+[05Jun2025 01:19:36.393] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6892, y=1, z=74}
+[05Jun2025 01:19:36.394] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6922, y=-19, z=79}
+[05Jun2025 01:19:36.395] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6923, y=-19, z=74}
+[05Jun2025 01:19:36.398] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6892, y=1, z=74}
+[05Jun2025 01:19:36.399] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6890, y=-19, z=73}
+[05Jun2025 01:19:36.400] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6902, y=-19, z=72}
+[05Jun2025 01:19:36.400] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6922, y=-19, z=79}
+[05Jun2025 01:19:36.416] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6872, y=-12, z=99}
+[05Jun2025 01:19:36.417] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6879, y=1, z=79}
+[05Jun2025 01:19:36.417] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6880, y=-12, z=78}
+[05Jun2025 01:19:36.417] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6891, y=1, z=61}
+[05Jun2025 01:19:36.417] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6885, y=-26, z=70}
+[05Jun2025 01:19:36.418] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6886, y=1, z=58}
+[05Jun2025 01:19:36.419] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6892, y=1, z=74}
+[05Jun2025 01:19:36.419] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6889, y=-19, z=79}
+[05Jun2025 01:19:36.419] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6882, y=-19, z=74}
+[05Jun2025 01:19:36.420] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6890, y=-19, z=73}
+[05Jun2025 01:19:36.420] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6881, y=-19, z=51}
+[05Jun2025 01:19:36.420] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6902, y=-19, z=72}
+[05Jun2025 01:19:36.423] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6872, y=-12, z=99}
+[05Jun2025 01:19:36.423] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6879, y=1, z=79}
+[05Jun2025 01:19:36.424] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6880, y=-12, z=78}
+[05Jun2025 01:19:36.424] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6871, y=-19, z=86}
+[05Jun2025 01:19:36.424] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6879, y=-12, z=61}
+[05Jun2025 01:19:36.425] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6886, y=1, z=58}
+[05Jun2025 01:19:36.426] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6889, y=-19, z=79}
+[05Jun2025 01:19:36.426] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6882, y=-19, z=74}
+[05Jun2025 01:19:36.426] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6881, y=-19, z=51}
+[05Jun2025 01:19:36.429] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6858, y=1, z=86}
+[05Jun2025 01:19:36.430] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6871, y=-19, z=86}
+[05Jun2025 01:19:36.430] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6851, y=-12, z=84}
+[05Jun2025 01:19:36.443] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6858, y=1, z=86}
+[05Jun2025 01:19:36.444] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6835, y=1, z=86}
+[05Jun2025 01:19:36.444] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6832, y=-12, z=92}
+[05Jun2025 01:19:36.445] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6851, y=-12, z=84}
+[05Jun2025 01:19:36.445] [Worker-Main-66/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6832, y=-12, z=65}
+[05Jun2025 01:19:36.466] [Worker-Main-87/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6835, y=1, z=86}
+[05Jun2025 01:19:36.468] [Worker-Main-87/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6832, y=-12, z=92}
+[05Jun2025 01:19:36.468] [Worker-Main-87/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6831, y=-12, z=76}
+[05Jun2025 01:19:36.468] [Worker-Main-87/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6831, y=-12, z=50}
+[05Jun2025 01:19:36.469] [Worker-Main-87/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6832, y=-12, z=65}
+[05Jun2025 01:19:36.469] [Worker-Main-87/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6811, y=-12, z=58}
+[05Jun2025 01:19:36.472] [Worker-Main-87/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-6811, y=-12, z=58}
+[05Jun2025 01:19:46.242] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:19:46.243] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 149880
+}
+[05Jun2025 01:19:46.243] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[05Jun2025 01:19:46.243] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "r8VB,8mYJ;fx 464,eR9G\\&"
+]
+[05Jun2025 01:20:01.566] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:20:01.567] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 97
+}
+[05Jun2025 01:20:01.567] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:20:01.567] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "5nBG@X%D7'6L320i*C,@"
+]
+[05Jun2025 01:20:56.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 hit the ground too hard
+[05Jun2025 01:21:04.811] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749086464781
+[05Jun2025 01:21:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> lobo3224 murio de unn pijazo
+[05Jun2025 01:21:24.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=45, y=67, z=34}
+[05Jun2025 01:21:25.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=67, z=34}
+[05Jun2025 01:21:25.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=68, z=34}
+[05Jun2025 01:21:28.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[05Jun2025 01:21:28.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[05Jun2025 01:21:28.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0
+[05Jun2025 01:21:28.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_dolphin_rider_0
+[05Jun2025 01:21:28.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1
+[05Jun2025 01:21:28.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0
+[05Jun2025 01:21:28.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_captain_0
+[05Jun2025 01:23:54.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
+[05Jun2025 01:23:55.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[05Jun2025 01:23:55.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[05Jun2025 01:23:55.211] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of YOUNGDINO07
+[05Jun2025 01:23:55.211] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[05Jun2025 01:23:55.219] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[05Jun2025 01:23:55.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[05Jun2025 01:23:55.306] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player ed45ce55-0981-3ac0-876f-3677ed698d8a does not have a secret
+[05Jun2025 01:23:59.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[05Jun2025 01:23:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[05Jun2025 01:23:59.109] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lautiABC
+[05Jun2025 01:23:59.109] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[05Jun2025 01:23:59.121] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[05Jun2025 01:23:59.144] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[05Jun2025 01:23:59.160] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[05Jun2025 01:23:59.183] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[05Jun2025 01:23:59.288] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[05Jun2025 01:23:59.288] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[05Jun2025 01:23:59.288] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[05Jun2025 01:23:59.289] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[05Jun2025 01:23:59.328] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[05Jun2025 01:23:59.328] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 71cf154b-6e54-326e-9700-98d60017873d does not have a secret
+[05Jun2025 01:24:12.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:24:12.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:25:24.077] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:25:24.078] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10846
+}
+[05Jun2025 01:25:24.078] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 01:25:24.078] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ";=WP3PI'FI(}?3206JD?N"
+]
+[05Jun2025 01:26:00.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[05Jun2025 01:26:00.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[05Jun2025 01:26:00.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Hollow Soldier
+[05Jun2025 01:26:00.258] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of kevedo909
+[05Jun2025 01:26:00.262] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[05Jun2025 01:26:00.339] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 380318f8-90c8-30a1-b2c2-428693a3e9ab does not have a secret
+[05Jun2025 01:26:37.757] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:26:37.757] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 194851910
+}
+[05Jun2025 01:26:37.757] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[05Jun2025 01:26:37.757] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "5~0wM\"`PF464==|hq"
+]
+[05Jun2025 01:29:12.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:29:12.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:30:45.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:30:45.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 113
+}
+[05Jun2025 01:30:45.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:30:45.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "lUkS!!o!r 320eva9$r3f"
+]
+[05Jun2025 01:33:28.572] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:33:28.572] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 101
+}
+[05Jun2025 01:33:28.572] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:33:28.573] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ";s#5t 03[Mr464Wb@~0U"
+]
+[05Jun2025 01:34:12.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:34:12.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:36:08.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:36:08.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 47900602
+}
+[05Jun2025 01:36:08.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[05Jun2025 01:36:08.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">\\A\\|3#4Ko#.320:]QpL6"
+]
+[05Jun2025 01:39:12.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 01:39:12.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 01:40:18.554] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:40:18.554] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 4383
+}
+[05Jun2025 01:40:18.554] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 01:40:18.554] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$Qh8LM#0464%rD"
+]
+[05Jun2025 01:41:31.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:41:31.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 122
+}
+[05Jun2025 01:41:31.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:41:31.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+QZ;1Q|{@\\ASF|E320W>H)\">"
+]

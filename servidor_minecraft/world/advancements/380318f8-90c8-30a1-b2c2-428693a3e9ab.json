@@ -7845,6 +7845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-05 01:25:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-06-05 00:24:34 +0000"
@@ -7854,6 +7860,12 @@
   "supplementaries:recipes/dispenser_minecart": {
     "criteria": {
       "has_dispenser": "2025-06-05 00:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-05 01:25:52 +0000"
     },
     "done": true
   },

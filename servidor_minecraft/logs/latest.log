@@ -614,3 +614,131 @@
 [
   "L0 ~RY320D.hJT"
 ]
+[05Jun2025 01:12:54.385] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:12:54.386] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 127
+}
+[05Jun2025 01:12:54.386] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:12:54.386] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "[E:&rpbR.T_L464S@-\\"
+]
+[05Jun2025 01:14:39.257] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:14:39.257] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 108
+}
+[05Jun2025 01:14:39.257] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:14:39.258] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Qvv^JGS2-meA320DL9B:M"
+]
+[05Jun2025 01:15:47.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
+[05Jun2025 01:18:52.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4993ms or 99 ticks behind
+[05Jun2025 01:19:46.242] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:19:46.243] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 149880
+}
+[05Jun2025 01:19:46.243] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[05Jun2025 01:19:46.243] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "r8VB,8mYJ;fx 464,eR9G\\&"
+]
+[05Jun2025 01:20:01.566] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:20:01.567] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 97
+}
+[05Jun2025 01:20:01.567] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:20:01.567] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "5nBG@X%D7'6L320i*C,@"
+]
+[05Jun2025 01:20:56.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 hit the ground too hard
+[05Jun2025 01:21:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <kevedo909> lobo3224 murio de unn pijazo
+[05Jun2025 01:21:24.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=45, y=67, z=34}
+[05Jun2025 01:21:25.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=67, z=34}
+[05Jun2025 01:21:25.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=46, y=68, z=34}
+[05Jun2025 01:23:54.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
+[05Jun2025 01:23:55.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YOUNGDINO07 lost connection: Disconnected
+[05Jun2025 01:23:55.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 left the game
+[05Jun2025 01:23:55.211] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client YOUNGDINO07
+[05Jun2025 01:23:59.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC lost connection: Disconnected
+[05Jun2025 01:23:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC left the game
+[05Jun2025 01:23:59.109] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lautiABC
+[05Jun2025 01:25:24.077] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:25:24.078] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10846
+}
+[05Jun2025 01:25:24.078] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 01:25:24.078] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ";=WP3PI'FI(}?3206JD?N"
+]
+[05Jun2025 01:26:00.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevedo909 lost connection: Disconnected
+[05Jun2025 01:26:00.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 left the game
+[05Jun2025 01:26:00.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Hollow Soldier
+[05Jun2025 01:26:00.262] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kevedo909
+[05Jun2025 01:26:37.757] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:26:37.757] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 194851910
+}
+[05Jun2025 01:26:37.757] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[05Jun2025 01:26:37.757] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "5~0wM\"`PF464==|hq"
+]
+[05Jun2025 01:30:45.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:30:45.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 113
+}
+[05Jun2025 01:30:45.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:30:45.903] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "lUkS!!o!r 320eva9$r3f"
+]
+[05Jun2025 01:33:28.572] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:33:28.572] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 101
+}
+[05Jun2025 01:33:28.572] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:33:28.573] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ";s#5t 03[Mr464Wb@~0U"
+]
+[05Jun2025 01:36:08.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:36:08.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 47900602
+}
+[05Jun2025 01:36:08.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[05Jun2025 01:36:08.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">\\A\\|3#4Ko#.320:]QpL6"
+]
+[05Jun2025 01:40:18.554] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:40:18.554] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 4383
+}
+[05Jun2025 01:40:18.554] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 01:40:18.554] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$Qh8LM#0464%rD"
+]
+[05Jun2025 01:41:31.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 01:41:31.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 122
+}
+[05Jun2025 01:41:31.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 01:41:31.031] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+QZ;1Q|{@\\ASF|E320W>H)\">"
+]
