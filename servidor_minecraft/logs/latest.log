@@ -176,3 +176,38 @@
   "[-121, 90, 109, -94, 6, -20, 33, 117, 5, -46, 13]"
 ]
 [05Jun2025 00:09:10.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30125, l='ServerLevel[world]', x=200.81, y=-256.00, z=180.26] died, message: 'Unemployed was killed'
+[05Jun2025 00:10:08.487] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:10:08.487] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 11110
+}
+[05Jun2025 00:10:08.487] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 00:10:08.488] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Wp~t_@iN^)320FZ%6"
+]
+[05Jun2025 00:15:30.636] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:15:30.637] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 61
+}
+[05Jun2025 00:15:30.637] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 00:15:30.637] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1UTL_-QJ.uR?b'Qw-O320O~"
+]
+[05Jun2025 00:17:26.204] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:17:26.205] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 8160
+}
+[05Jun2025 00:17:26.205] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 00:17:26.205] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9&}e#R\\0v464,#\"+:"
+]
+[05Jun2025 00:19:07.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevedo909[/127.135.49.103:60691] logged in with entity id 33297 at (-3754.6246663085135, 215.0, 79.52449460410257)
+[05Jun2025 00:19:07.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 joined the game
+[05Jun2025 00:19:07.610] [Server thread/INFO] [Jade/]: Syncing config to kevedo909 (380318f8-90c8-30a1-b2c2-428693a3e9ab)
+[05Jun2025 00:19:23.323] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kevedo909 (18)
+[05Jun2025 00:19:23.323] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kevedo909
