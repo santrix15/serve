@@ -8764,3 +8764,168 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jun2025 22:29:35.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
 [05Jun2025 22:29:35.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
 [05Jun2025 22:29:35.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[05Jun2025 22:31:38.414] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 22:31:38.414] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15321
+}
+[05Jun2025 22:31:38.415] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 22:31:38.415] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "aw9$C.+h*GNw320:p,OZ"
+]
+[05Jun2025 22:32:15.964] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 22:32:15.964] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1008687
+}
+[05Jun2025 22:32:15.965] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[05Jun2025 22:32:15.965] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "93V{1r5v2336Q8,?!"
+]
+[05Jun2025 22:32:26.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 22:32:26.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 22:33:14.897] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 22:33:14.897] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1204101
+}
+[05Jun2025 22:33:14.897] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[05Jun2025 22:33:14.898] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "?Z0'^Jagkw336*}LG_"
+]
+[05Jun2025 22:34:35.951] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 22:34:35.951] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 32
+}
+[05Jun2025 22:34:35.952] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 22:34:35.952] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "u~NN:&?Q4/Y,3368%O/]q"
+]
+[05Jun2025 22:35:39.204] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/2705, l='ServerLevel[world]', x=-5160.50, y=41.00, z=1052.50]
+[05Jun2025 22:35:43.161] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of YOUNGDINO07: {disabled=false, disconnected=false, uuid=ed45ce55-0981-3ac0-876f-3677ed698d8a, name=YOUNGDINO07, group=29265b94-9d44-404e-81c0-8561008a1bdb}
+[05Jun2025 22:35:54.118] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 22:35:54.119] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 22
+}
+[05Jun2025 22:35:54.119] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 22:35:54.119] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "_3,\\GV\\Ik}BrEz336+#A{F?%"
+]
+[05Jun2025 22:37:00.730] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 22:37:00.730] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 119
+}
+[05Jun2025 22:37:00.731] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 22:37:00.731] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "d@\"z[[7>5I5320z@@"
+]
+[05Jun2025 22:37:15.359] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$401daab1367c40268f563e95e1d3a1da (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[05Jun2025 22:37:26.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 22:37:26.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 22:37:34.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> zzz
+[05Jun2025 22:37:35.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> zzz
+[05Jun2025 22:37:36.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> zzz
+[05Jun2025 22:37:37.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> zzz
+[05Jun2025 22:38:22.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[05Jun2025 22:38:22.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[05Jun2025 22:38:22.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[05Jun2025 22:38:22.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[05Jun2025 22:38:22.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[05Jun2025 22:38:22.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[05Jun2025 22:38:22.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[05Jun2025 22:38:22.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[05Jun2025 22:38:22.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[05Jun2025 22:38:22.401] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[05Jun2025 22:38:22.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[05Jun2025 22:38:22.406] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[05Jun2025 22:38:22.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[05Jun2025 22:38:22.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[05Jun2025 22:38:22.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[05Jun2025 22:38:22.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[05Jun2025 22:38:22.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[05Jun2025 22:38:22.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[05Jun2025 22:38:22.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[05Jun2025 22:38:22.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[05Jun2025 22:38:22.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[05Jun2025 22:38:22.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[05Jun2025 22:38:22.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[05Jun2025 22:38:22.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[05Jun2025 22:38:22.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[05Jun2025 22:38:22.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[05Jun2025 22:38:22.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[05Jun2025 22:38:22.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[05Jun2025 22:38:22.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[05Jun2025 22:38:22.521] [Worker-Main-42/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jun2025 22:38:22.525] [Worker-Main-42/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jun2025 22:38:22.525] [Worker-Main-42/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[05Jun2025 22:38:22.526] [Worker-Main-42/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jun2025 22:38:22.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[05Jun2025 22:38:22.896] [Worker-Main-42/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jun2025 22:38:22.897] [Worker-Main-42/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jun2025 22:38:22.898] [Worker-Main-42/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jun2025 22:38:22.898] [Worker-Main-42/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jun2025 22:38:22.901] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[05Jun2025 22:38:22.901] [Worker-Main-42/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[05Jun2025 22:38:22.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[05Jun2025 22:38:22.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[05Jun2025 22:38:22.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[05Jun2025 22:38:22.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[05Jun2025 22:38:22.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[05Jun2025 22:38:22.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[05Jun2025 22:38:22.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[05Jun2025 22:38:22.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[05Jun2025 22:38:22.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[05Jun2025 22:38:22.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[05Jun2025 22:38:22.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[05Jun2025 22:38:22.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[05Jun2025 22:38:22.942] [Worker-Main-42/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[05Jun2025 22:38:23.010] [Worker-Main-50/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[05Jun2025 22:38:23.035] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[05Jun2025 22:38:23.098] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[05Jun2025 22:38:23.139] [Worker-Main-50/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[05Jun2025 22:38:29.968] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Jun2025 22:38:33.642] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 22:38:33.642] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 12
+}
+[05Jun2025 22:38:33.643] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 22:38:33.643] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "YcZwl>`pm8#,y$C336&v|mhX"
+]
+[05Jun2025 22:40:17.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[05Jun2025 22:40:17.507] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[05Jun2025 22:40:17.512] [Worker-Main-39/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Jun2025 22:40:17.512] [Worker-Main-39/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Jun2025 22:40:17.569] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[05Jun2025 22:40:17.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[05Jun2025 22:40:17.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[05Jun2025 22:40:17.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_woodworker
+[05Jun2025 22:40:17.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[05Jun2025 22:40:22.324] [Worker-Main-49/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-8853, y=-34, z=-867}
+[05Jun2025 22:40:22.338] [Worker-Main-54/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-8853, y=-34, z=-867}
+[05Jun2025 22:40:22.341] [Worker-Main-54/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-8859, y=-34, z=-850}
+[05Jun2025 22:40:37.102] [Worker-Main-39/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[05Jun2025 22:40:48.301] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[05Jun2025 22:40:48.302] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[05Jun2025 22:40:48.318] [Worker-Main-55/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[05Jun2025 22:41:10.254] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 22:41:10.255] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 874181
+}
+[05Jun2025 22:41:10.256] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[05Jun2025 22:41:10.256] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ".RE+<H|3M336,/',U"
+]
