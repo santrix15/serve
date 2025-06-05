@@ -12039,5 +12039,47 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-05 23:50:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-06-05 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-05 23:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-05 23:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-05 23:50:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/mysterious_worm": {
+    "criteria": {
+      "mysterious_worm": "2025-06-05 23:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-05 23:50:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

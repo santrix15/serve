@@ -10464,3 +10464,301 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 ]
 [05Jun2025 23:42:26.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jun2025 23:42:26.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 23:43:24.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/plains/plains_woodworker
+[05Jun2025 23:43:24.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[05Jun2025 23:43:26.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[05Jun2025 23:43:26.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[05Jun2025 23:43:26.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[05Jun2025 23:43:26.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[05Jun2025 23:43:26.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[05Jun2025 23:43:26.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[05Jun2025 23:43:26.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[05Jun2025 23:43:26.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[05Jun2025 23:43:26.133] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[05Jun2025 23:43:26.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_mage
+[05Jun2025 23:43:26.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[05Jun2025 23:44:08.631] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:44:08.632] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 117
+}
+[05Jun2025 23:44:08.632] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 23:44:08.632] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "&@5U<O.?MSk%336q"
+]
+[05Jun2025 23:44:12.147] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[05Jun2025 23:44:12.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[05Jun2025 23:44:12.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_16
+[05Jun2025 23:44:12.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_4
+[05Jun2025 23:44:12.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_10
+[05Jun2025 23:44:12.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_14
+[05Jun2025 23:44:12.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_22
+[05Jun2025 23:44:12.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_charged_creeper_0
+[05Jun2025 23:44:12.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_12
+[05Jun2025 23:44:12.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_skeleton_ranged_0
+[05Jun2025 23:44:12.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_15
+[05Jun2025 23:44:12.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_guardian_3
+[05Jun2025 23:44:12.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_1
+[05Jun2025 23:44:12.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_skeleton_melee_1
+[05Jun2025 23:44:12.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_3
+[05Jun2025 23:44:12.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_7
+[05Jun2025 23:44:12.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_5
+[05Jun2025 23:44:12.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_11
+[05Jun2025 23:44:12.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_9
+[05Jun2025 23:44:12.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_23
+[05Jun2025 23:44:12.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_25
+[05Jun2025 23:44:12.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_21
+[05Jun2025 23:44:12.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_19
+[05Jun2025 23:44:12.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_17
+[05Jun2025 23:44:12.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_2
+[05Jun2025 23:44:12.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_8
+[05Jun2025 23:44:12.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_6
+[05Jun2025 23:44:12.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_0
+[05Jun2025 23:44:12.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_18
+[05Jun2025 23:44:12.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_24
+[05Jun2025 23:44:12.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_26
+[05Jun2025 23:44:12.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_20
+[05Jun2025 23:44:12.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_phantom_0
+[05Jun2025 23:44:13.086] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749167052370
+[05Jun2025 23:44:20.465] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[05Jun2025 23:44:20.690] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749167060681
+[05Jun2025 23:45:39.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/41073, l='ServerLevel[world]', x=-1462.28, y=-256.00, z=2424.77] died, message: 'Unemployed was killed'
+[05Jun2025 23:45:54.995] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:45:54.996] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 84
+}
+[05Jun2025 23:45:54.996] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 23:45:54.996] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "DOV%\"|F3367|<v"
+]
+[05Jun2025 23:46:55.629] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:46:55.630] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 28
+}
+[05Jun2025 23:46:55.630] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 23:46:55.630] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "aq1|/aRX(320<sQ<"
+]
+[05Jun2025 23:47:14.668] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:47:14.669] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[05Jun2025 23:47:14.669] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 23:47:14.669] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-$Gz4qon8LT336EH.oL"
+]
+[05Jun2025 23:47:26.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 23:47:26.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 23:48:09.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Pest Control]
+[05Jun2025 23:48:21.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Destroy The Child]
+[05Jun2025 23:48:32.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> Graciaas
+[05Jun2025 23:48:37.772] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:48:37.772] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10585
+}
+[05Jun2025 23:48:37.772] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 23:48:37.773] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "@0[1tcVi;I$g336/x\\"
+]
+[05Jun2025 23:48:42.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> ??
+[05Jun2025 23:48:44.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> x?
+[05Jun2025 23:48:54.457] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/42138, l='ServerLevel[world]', x=-5157.50, y=43.00, z=1055.50]
+[05Jun2025 23:48:54.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> me hicieron conseguir algo
+[05Jun2025 23:49:07.270] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:49:07.270] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 8665
+}
+[05Jun2025 23:49:07.270] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 23:49:07.271] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "l AX!?Up?sh<Z288^5~E&Q)1"
+]
+[05Jun2025 23:49:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> aaa bueno denasd
+[05Jun2025 23:49:08.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que es un poco destructivo
+[05Jun2025 23:49:25.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lautiABC> buene me chupa un huevo
+[05Jun2025 23:49:31.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> hacia falta llevarte el waystone
+[05Jun2025 23:50:00.348] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:00.348] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 48
+}
+[05Jun2025 23:50:00.348] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 23:50:00.349] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "p7C/^^Xj5{NFA336cyZg7"
+]
+[05Jun2025 23:50:11.929] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:11.929] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=972, z=1073200}"
+}
+[05Jun2025 23:50:11.930] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Jun2025 23:50:11.930] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[50, -67, -19, -89, 29, -41, -14, 31, 10, -38, -121]"
+]
+[05Jun2025 23:50:12.297] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:12.297] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=878, z=1073200}"
+}
+[05Jun2025 23:50:12.297] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Jun2025 23:50:12.297] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-25, 122, 127, -84, 13, -4, -74, -61, 98, -36, -34]"
+]
+[05Jun2025 23:50:13.060] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:13.061] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=931, z=1073200}"
+}
+[05Jun2025 23:50:13.061] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Jun2025 23:50:13.061] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-55, 107, 28, -117, 78, 77, -77, 22, -63, 75, 28]"
+]
+[05Jun2025 23:50:13.425] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:13.425] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1013, z=1073200}"
+}
+[05Jun2025 23:50:13.425] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Jun2025 23:50:13.426] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[125, -97, 99, -28, -121, 21, -39, -87, 110, -119, -126]"
+]
+[05Jun2025 23:50:15.835] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:15.836] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=807, z=1073200}"
+}
+[05Jun2025 23:50:15.836] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Jun2025 23:50:15.836] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[29, -59, 37, 84, -74, 125, 3, 43, -54, -85, -122]"
+]
+[05Jun2025 23:50:15.850] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:15.851] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=849, z=1073200}"
+}
+[05Jun2025 23:50:15.851] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Jun2025 23:50:15.851] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-46, -84, -7, 72, 40, 82, 68, -12, -98, -43, -46]"
+]
+[05Jun2025 23:50:16.128] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:16.129] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=987, z=1073200}"
+}
+[05Jun2025 23:50:16.129] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Jun2025 23:50:16.129] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-121, 77, 58, 15, 50, 72, 85, -30, -7, 115, -88]"
+]
+[05Jun2025 23:50:22.330] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:22.330] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 93
+}
+[05Jun2025 23:50:22.330] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 23:50:22.331] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "=(qVrMHDEnJ0464Q a:"
+]
+[05Jun2025 23:50:25.341] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:25.341] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=841, z=1122352}"
+}
+[05Jun2025 23:50:25.341] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Jun2025 23:50:25.341] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-114, -69, 91, -39, -94, 82, 16, -19, -45, -53, -58]"
+]
+[05Jun2025 23:50:26.663] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:26.663] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=895, z=905264}"
+}
+[05Jun2025 23:50:26.663] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Jun2025 23:50:26.664] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[95, -3, -21, -99, -104, -8, 56, 97, -14, 86, -38]"
+]
+[05Jun2025 23:50:26.927] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:50:26.927] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=794, z=856112}"
+}
+[05Jun2025 23:50:26.927] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Jun2025 23:50:26.928] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-25, -45, -1, 75, 103, 108, -32, 19, 93, -107, 7]"
+]
+[05Jun2025 23:51:20.458] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/43032, l='ServerLevel[world]', x=-5164.50, y=38.00, z=1054.50]
+[05Jun2025 23:51:21.683] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:51:21.683] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 125
+}
+[05Jun2025 23:51:21.683] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 23:51:21.683] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "g)P~z_a'w!@~W!336QK"
+]
+[05Jun2025 23:51:50.150] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:51:50.150] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10958
+}
+[05Jun2025 23:51:50.150] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 23:51:50.150] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "A8QN0XNK336#!%2"
+]
+[05Jun2025 23:51:52.614] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[05Jun2025 23:52:19.011] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 23:52:19.011] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1136
+}
+[05Jun2025 23:52:19.012] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 23:52:19.012] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":W/,d^,S0320;ax:Z"
+]
+[05Jun2025 23:52:26.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 23:52:26.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 23:52:28.905] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/43530, l='ServerLevel[world]', x=-5153.50, y=41.00, z=1058.50]

@@ -3383,6 +3383,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-25 02:55:37 +0000",
       "chicken": "2025-05-27 22:53:13 +0000",
+      "cooked_mutton": "2025-06-05 23:51:39 +0000",
       "sweet_berries": "2025-05-31 02:53:52 +0000",
       "beef": "2025-05-24 00:42:27 +0000",
       "baked_potato": "2025-06-01 01:33:16 +0000",
@@ -6870,9 +6871,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-05 23:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-06-05 23:01:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-06-05 23:47:30 +0000"
     },
     "done": true
   },
@@ -6888,6 +6901,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-06-05 23:47:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-06-05 23:01:13 +0000"
@@ -6897,6 +6916,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-06-05 23:01:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-06-05 23:47:30 +0000"
     },
     "done": true
   },
