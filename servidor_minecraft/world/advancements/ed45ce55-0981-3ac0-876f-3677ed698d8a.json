@@ -92,6 +92,7 @@
       "minecraft:ocean": "2025-05-24 00:33:51 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-31 02:59:38 +0000",
       "minecraft:windswept_savanna": "2025-06-01 00:29:30 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-05 00:36:33 +0000",
       "minecraft:flower_forest": "2025-05-24 00:47:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-24 00:36:00 +0000",
       "minecraft:meadow": "2025-05-24 00:46:09 +0000",
@@ -6838,6 +6839,24 @@
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-06-04 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-06-05 00:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-05 00:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-05 00:32:49 +0000"
     },
     "done": true
   },

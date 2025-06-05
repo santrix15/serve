@@ -10902,3 +10902,158 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Jun2025 00:28:44.816] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [05Jun2025 00:28:52.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jun2025 00:28:52.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 00:30:59.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was slain by Zombie
+[05Jun2025 00:31:01.109] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749083461109
+[05Jun2025 00:31:07.799] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:31:07.799] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1506
+}
+[05Jun2025 00:31:07.799] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 00:31:07.799] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">RgWJ.@464s~vB0D\\TT"
+]
+[05Jun2025 00:31:37.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:31:37.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 16
+}
+[05Jun2025 00:31:37.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 00:31:37.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-Rcp'.5r,W368]dh"
+]
+[05Jun2025 00:31:39.674] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:31:39.674] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 26116609
+}
+[05Jun2025 00:31:39.675] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[05Jun2025 00:31:39.675] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "uvQaG'VKfg]L*320/x\\"
+]
+[05Jun2025 00:32:39.903] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40430, l='ServerLevel[world]', x=-5166.50, y=38.00, z=1054.50]
+[05Jun2025 00:32:49.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Spooky Scary Skeleton]
+[05Jun2025 00:33:11.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Skeleton
+[05Jun2025 00:33:15.066] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749083595037
+[05Jun2025 00:33:52.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 00:33:52.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 00:35:04.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevedo909 was shot by Skeleton
+[05Jun2025 00:35:05.918] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749083705893
+[05Jun2025 00:36:40.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:lich_prison/lich_prison
+[05Jun2025 00:36:45.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[05Jun2025 00:36:45.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[05Jun2025 00:36:49.935] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[05Jun2025 00:37:01.764] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:37:01.764] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3456
+}
+[05Jun2025 00:37:01.765] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[05Jun2025 00:37:01.765] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "W6N=_YEHTD4Z320Q\\xEME&"
+]
+[05Jun2025 00:37:11.899] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_01
+[05Jun2025 00:37:17.107] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[05Jun2025 00:37:17.572] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[05Jun2025 00:37:17.880] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_07
+[05Jun2025 00:37:24.995] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[05Jun2025 00:37:25.006] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[05Jun2025 00:37:25.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lautiABC has made the advancement [Sunken City]
+[05Jun2025 00:37:26.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 has made the advancement [Sunken City]
+[05Jun2025 00:37:27.400] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[05Jun2025 00:37:28.274] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[05Jun2025 00:37:31.193] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[05Jun2025 00:37:57.834] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[05Jun2025 00:37:57.859] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[05Jun2025 00:37:57.871] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[05Jun2025 00:37:57.877] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[05Jun2025 00:37:57.888] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[05Jun2025 00:37:57.900] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[05Jun2025 00:37:58.300] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Jun2025 00:37:58.301] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 18
+}
+[05Jun2025 00:37:58.304] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[05Jun2025 00:37:58.304] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "YQ,afKm<G{]]@nC464x^IS("
+]
+[05Jun2025 00:38:07.733] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[05Jun2025 00:38:08.949] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[05Jun2025 00:38:08.996] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[05Jun2025 00:38:12.238] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[05Jun2025 00:38:18.215] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:dead_tree/dead_tree
+[05Jun2025 00:38:26.480] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[05Jun2025 00:38:31.775] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[05Jun2025 00:38:31.803] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[05Jun2025 00:38:31.819] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[05Jun2025 00:38:31.878] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[05Jun2025 00:38:31.925] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[05Jun2025 00:38:31.931] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_1
+[05Jun2025 00:38:31.950] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[05Jun2025 00:38:31.958] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_0
+[05Jun2025 00:38:31.959] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_3
+[05Jun2025 00:38:31.959] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_2
+[05Jun2025 00:38:31.984] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_descent_0
+[05Jun2025 00:38:32.006] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_turn_0
+[05Jun2025 00:38:32.059] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove1
+[05Jun2025 00:38:32.064] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[05Jun2025 00:38:38.979] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[05Jun2025 00:38:38.983] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[05Jun2025 00:38:38.983] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[05Jun2025 00:38:39.385] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[05Jun2025 00:38:46.023] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[05Jun2025 00:38:49.031] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_01
+[05Jun2025 00:38:49.149] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[05Jun2025 00:38:49.157] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[05Jun2025 00:38:49.169] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[05Jun2025 00:38:49.202] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[05Jun2025 00:38:49.385] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[05Jun2025 00:38:49.391] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[05Jun2025 00:38:49.415] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[05Jun2025 00:38:49.455] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[05Jun2025 00:38:49.469] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[05Jun2025 00:38:49.477] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[05Jun2025 00:38:49.490] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[05Jun2025 00:38:49.526] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[05Jun2025 00:38:50.158] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[05Jun2025 00:38:52.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 00:38:52.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 00:38:52.898] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_06
+[05Jun2025 00:38:55.788] [Worker-Main-88/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[05Jun2025 00:39:04.886] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[05Jun2025 00:39:18.784] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail2
+[05Jun2025 00:39:22.087] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[05Jun2025 00:39:22.099] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[05Jun2025 00:39:22.105] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[05Jun2025 00:39:22.112] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[05Jun2025 00:39:22.121] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[05Jun2025 00:39:22.127] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[05Jun2025 00:39:22.136] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[05Jun2025 00:39:22.139] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[05Jun2025 00:39:22.144] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[05Jun2025 00:39:22.148] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[05Jun2025 00:39:22.150] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[05Jun2025 00:39:22.154] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[05Jun2025 00:39:22.155] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[05Jun2025 00:39:22.155] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[05Jun2025 00:39:22.155] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[05Jun2025 00:39:22.156] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[05Jun2025 00:39:22.156] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[05Jun2025 00:39:22.157] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[05Jun2025 00:39:22.157] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[05Jun2025 00:39:22.157] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[05Jun2025 00:39:22.158] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[05Jun2025 00:39:22.159] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[05Jun2025 00:39:29.964] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[05Jun2025 00:39:31.543] [Worker-Main-87/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[05Jun2025 00:39:34.264] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[05Jun2025 00:39:34.279] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[05Jun2025 00:39:34.287] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[05Jun2025 00:39:38.638] [Worker-Main-89/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[05Jun2025 00:39:45.474] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_02
