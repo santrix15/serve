@@ -12051,6 +12051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-06-06 01:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-05 23:50:12 +0000"
@@ -12090,6 +12096,12 @@
   "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:void_blossom": "2025-06-06 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-06-06 01:29:01 +0000"
     },
     "done": true
   },

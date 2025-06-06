@@ -6873,21 +6873,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_any_ingredient": "2025-06-06 00:59:28 +0000"
+      "obsidian": "2025-06-05 22:57:03 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "comfort": "2025-06-06 00:06:24 +0000"
+      "has_obsidian": "2025-06-05 22:57:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_redstone_torch": "2025-06-05 23:48:33 +0000"
+      "has_enchanted_golden_apple": "2025-06-05 22:57:21 +0000"
     },
     "done": true
   },
@@ -6897,45 +6897,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-06-05 23:47:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-06-06 00:59:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-06-05 22:57:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
     "criteria": {
       "has_kelp": "2025-06-05 23:01:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-06-05 23:47:30 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_workstation_get": {
-    "criteria": {
-      "blastfurnace": "2025-06-06 00:58:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-06-06 00:06:03 +0000"
     },
     "done": true
   },
@@ -6951,15 +6915,45 @@
     },
     "done": true
   },
-  "morevillagers:all_workstations_get": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "blastfurnace": "2025-06-06 00:58:54 +0000"
+      "has_mutton": "2025-06-05 23:47:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
+  "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
-      "has_any_ingredient": "2025-06-06 00:59:35 +0000"
+      "has_cooked_mutton": "2025-06-05 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-06-05 23:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-05 23:48:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-06 00:06:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-06 00:06:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-06 00:06:24 +0000"
     },
     "done": true
   },
@@ -6969,9 +6963,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mixed_salad": {
+  "morevillagers:first_workstation_get": {
     "criteria": {
-      "has_bowl": "2025-06-06 00:06:03 +0000"
+      "blastfurnace": "2025-06-06 00:58:54 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "blastfurnace": "2025-06-06 00:58:54 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-06 00:59:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-06-06 00:59:28 +0000"
     },
     "done": true
   },
@@ -6987,9 +6999,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
-      "has_mutton": "2025-06-05 23:47:30 +0000"
+      "has_any_ingredient": "2025-06-06 00:59:35 +0000"
     },
     "done": true
   },
@@ -6999,15 +7011,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "has_obsidian": "2025-06-05 22:57:03 +0000"
+      "fighting_nightmares_0": "2025-06-06 01:18:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-06-05 22:57:21 +0000"
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-06 01:24:24 +0000"
     },
     "done": true
   },
