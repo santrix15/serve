@@ -45,3 +45,42 @@
 [06Jun2025 00:08:48.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
 [06Jun2025 00:09:48.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
 [06Jun2025 00:09:56.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
+[06Jun2025 00:15:33.428] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 00:15:33.429] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 68
+}
+[06Jun2025 00:15:33.429] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 00:15:33.429] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "F1Oq[Zu7drA;?fUYv336~gB"
+]
+[06Jun2025 00:16:47.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YOUNGDINO07> hola gonzi
+[06Jun2025 00:17:32.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was killed by magic whilst trying to escape lobo3224
+[06Jun2025 00:17:34.915] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/60248, l='ServerLevel[world]', x=-5160.50, y=43.00, z=1051.50]
+[06Jun2025 00:19:03.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lautiABC moved wrongly!
+[06Jun2025 00:20:40.636] [Worker-Main-27/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63184, l='ServerLevel[world]', x=-589.00, y=31.00, z=283.00] as it would cause deadlock
+[06Jun2025 00:20:40.986] [Worker-Main-54/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63196, l='ServerLevel[world]', x=-745.00, y=31.00, z=279.00] as it would cause deadlock
+[06Jun2025 00:20:48.483] [Worker-Main-142/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63275, l='ServerLevel[world]', x=-836.00, y=31.00, z=199.00] as it would cause deadlock
+[06Jun2025 00:20:56.900] [Worker-Main-54/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63315, l='ServerLevel[world]', x=-722.00, y=31.00, z=-102.00] as it would cause deadlock
+[06Jun2025 00:22:31.524] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 00:22:31.525] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 46
+}
+[06Jun2025 00:22:31.525] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 00:22:31.525] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "'T6l}j=MAO336C@kk[_"
+]
+[06Jun2025 00:24:41.510] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 00:24:41.512] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15456
+}
+[06Jun2025 00:24:41.512] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[06Jun2025 00:24:41.513] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "s O(TN|3Q464bo0s"
+]
+[06Jun2025 00:24:41.755] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/64979, l='ServerLevel[world]', x=-5158.50, y=37.00, z=1053.50]
