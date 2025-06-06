@@ -10966,3 +10966,104 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "s O(TN|3Q464bo0s"
 ]
 [06Jun2025 00:24:41.755] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/64979, l='ServerLevel[world]', x=-5158.50, y=37.00, z=1053.50]
+[06Jun2025 00:26:15.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved too quickly! 0.0,-11.606079288700538,0.0
+[06Jun2025 00:27:17.477] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[06Jun2025 00:27:17.502] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-642, y=61, z=120} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[06Jun2025 00:27:17.503] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-642, y=61, z=120} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[06Jun2025 00:27:17.692] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749169637665
+[06Jun2025 00:27:41.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 00:27:41.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 00:27:45.061] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/particle/TextureSheetParticle for class com/cerbon/cerbons_api/api/general/particle/SimpleParticle in classloader cpw.mods.modlauncher.TransformingClassLoader@65cc5252 on thread Thread[Server thread,5,SERVER]
+[06Jun2025 00:27:45.062] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetParticle
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:3402) ~[?:?]
+	at java.lang.Class.getDeclaredMethod(Class.java:2673) ~[?:?]
+	at me.jellysquid.mods.lithium.common.reflection.ReflectionUtil.hasMethodOverride(ReflectionUtil.java:13) ~[radium-mc1.20.1-0.12.4+git.26c9d8e.jar%23343!/:?]
+	at me.jellysquid.mods.lithium.common.block.BlockStateFlags$5.test(BlockStateFlags.java:114) ~[radium-mc1.20.1-0.12.4+git.26c9d8e.jar%23343!/:?]
+	at me.jellysquid.mods.lithium.common.block.BlockStateFlags$5.test(BlockStateFlags.java:107) ~[radium-mc1.20.1-0.12.4+git.26c9d8e.jar%23343!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.initFlags(BlockBehaviour.java:2977) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.handler$bhb002$init(BlockBehaviour.java:2967) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60611_(BlockBehaviour.java:519) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.mfix$generateCache(BlockBehaviour.java:1506) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.getAllFlags(BlockBehaviour.java) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.chunk.LevelChunkSection.handler$bhc000$updateFlagCounters(LevelChunkSection.java:1610) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.chunk.LevelChunkSection.m_62991_(LevelChunkSection.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.chunk.LevelChunkSection.redirect$bdn000$setBlockStateNoLocking(LevelChunkSection.java:1021) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.chunk.LevelChunkSection.m_62986_(LevelChunkSection.java:59) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_6978_(LevelChunk.java:223) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.Level.m_46597_(Level.java:307) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.BlossomAction.lambda$placeBlossoms$4(BlossomAction.java:98) ~[BOMD-Forge-1.20.1-1.1.1.jar%23251!/:1.1.1]
+	at com.cerbon.cerbons_api.api.general.event.TimedEvent.doEvent(TimedEvent.java:39) ~[CerbonsApi-Forge-1.20.1-1.0.0.jar%23257!/:1.0.0]
+	at com.cerbon.cerbons_api.api.general.event.EventScheduler.updateEvents(EventScheduler.java:25) ~[CerbonsApi-Forge-1.20.1-1.0.0.jar%23257!/:1.0.0]
+	at com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity.m_8119_(BaseEntity.java:49) ~[BOMD-Forge-1.20.1-1.1.1.jar%23251!/:1.1.1]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.Level.mixinextras$bridge$accept$163(Level.java) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at com.bawnorton.neruina.handler.TickHandler.safelyTickEntities(TickHandler.java:92) ~[Neruina-2.1.2-forge+1.20.1.jar%23330!/:?]
+	at net.minecraft.world.level.Level.wrapOperation$blo000$catchTickingEntities$notTheCauseOfTickLag(Level.java:5540) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23365!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[06Jun2025 00:27:45.064] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.cerbon.bosses_of_mass_destruction.block.custom.VoidBlossomBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/client/particle/TextureSheetParticle. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[06Jun2025 00:27:45.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Extreme Weeding]
+[06Jun2025 00:28:38.478] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[06Jun2025 00:28:38.480] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-5117, y=71, z=965} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[06Jun2025 00:28:38.481] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-5117, y=71, z=965} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[06Jun2025 00:28:38.711] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749169718711
+[06Jun2025 00:29:04.037] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 00:29:04.037] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 984833
+}
+[06Jun2025 00:29:04.038] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[06Jun2025 00:29:04.038] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "6Lw~u^i$&~%yRe;336cxKF+XB"
+]
+[06Jun2025 00:29:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 tried to swim in lava
+[06Jun2025 00:29:29.552] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749169769508
+[06Jun2025 00:30:32.464] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[06Jun2025 00:32:30.206] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[06Jun2025 00:32:30.434] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749169950434
+[06Jun2025 00:32:41.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 00:32:41.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 00:32:51.213] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[06Jun2025 00:34:25.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Bunfungus
+[06Jun2025 00:34:26.209] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 00:34:26.209] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 98
+}
+[06Jun2025 00:34:26.209] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 00:34:26.210] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\\'(TL`~p336n52*U=h"
+]
+[06Jun2025 00:34:27.518] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749170067518
+[06Jun2025 00:35:00.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has completed the challenge [Great View From Up Here]
+[06Jun2025 00:35:30.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YOUNGDINO07 was slain by Bunfungus
+[06Jun2025 00:35:32.398] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749170132398
